@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: b5af61f9db9e2a941a6658d334f3efac
+timeCreated: 1480531596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Lower_L
+    100002: Arm_Lower_R
+    100004: Arm_Upper_L
+    100006: Arm_Upper_R
+    100008: Ear_L
+    100010: Ear_R
+    100012: Ear_Root_L
+    100014: Ear_Root_R
+    100016: Foot_L
+    100018: Foot_R
+    100020: Hand_L
+    100022: Hand_R
+    100024: Head
+    100026: Hip_L
+    100028: Hip_R
+    100030: Hips
+    100032: IK Chain001
+    100034: IK Chain002
+    100036: IK Chain003
+    100038: IK Chain004
+    100040: IK Chain005
+    100042: Jaw
+    100044: Jaw_Root
+    100046: Leg_Lower_L
+    100048: Leg_Lower_R
+    100050: Leg_Upper_01_L
+    100052: Leg_Upper_01_R
+    100054: Leg_Upper_02_L
+    100056: Leg_Upper_02_R
+    100058: Neck
+    100060: //RootNode
+    100062: Sabertooth_Base_Short
+    100064: Sabertooth_Whiskers
+    100066: Shoulder_L
+    100068: Shoulder_R
+    100070: Spine_01
+    100072: Spine_02
+    100074: Spine_03
+    100076: Spine_04
+    100078: Tail_01
+    100080: Tail_02
+    100082: Tail_03
+    100084: Tail_04
+    100086: Tail_05
+    100088: Tail_06
+    100090: Tail_07
+    100092: Tail_08
+    100094: Tail_09
+    100096: Tail_10
+    100098: Tail_11
+    100100: Tail_12
+    100102: Tail_Root
+    400000: Arm_Lower_L
+    400002: Arm_Lower_R
+    400004: Arm_Upper_L
+    400006: Arm_Upper_R
+    400008: Ear_L
+    400010: Ear_R
+    400012: Ear_Root_L
+    400014: Ear_Root_R
+    400016: Foot_L
+    400018: Foot_R
+    400020: Hand_L
+    400022: Hand_R
+    400024: Head
+    400026: Hip_L
+    400028: Hip_R
+    400030: Hips
+    400032: IK Chain001
+    400034: IK Chain002
+    400036: IK Chain003
+    400038: IK Chain004
+    400040: IK Chain005
+    400042: Jaw
+    400044: Jaw_Root
+    400046: Leg_Lower_L
+    400048: Leg_Lower_R
+    400050: Leg_Upper_01_L
+    400052: Leg_Upper_01_R
+    400054: Leg_Upper_02_L
+    400056: Leg_Upper_02_R
+    400058: Neck
+    400060: //RootNode
+    400062: Sabertooth_Base_Short
+    400064: Sabertooth_Whiskers
+    400066: Shoulder_L
+    400068: Shoulder_R
+    400070: Spine_01
+    400072: Spine_02
+    400074: Spine_03
+    400076: Spine_04
+    400078: Tail_01
+    400080: Tail_02
+    400082: Tail_03
+    400084: Tail_04
+    400086: Tail_05
+    400088: Tail_06
+    400090: Tail_07
+    400092: Tail_08
+    400094: Tail_09
+    400096: Tail_10
+    400098: Tail_11
+    400100: Tail_12
+    400102: Tail_Root
+    4300000: Sabertooth_Base_Short
+    4300002: Sabertooth_Whiskers
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Sabertooth_Base_Short
+    13700002: Sabertooth_Whiskers
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/Hip_L
+        weight: 1
+      - path: Hips/Hip_L/Leg_Upper_01_L
+        weight: 1
+      - path: Hips/Hip_L/Leg_Upper_01_L/Leg_Upper_02_L
+        weight: 1
+      - path: Hips/Hip_L/Leg_Upper_01_L/Leg_Upper_02_L/Leg_Lower_L
+        weight: 1
+      - path: Hips/Hip_L/Leg_Upper_01_L/Leg_Upper_02_L/Leg_Lower_L/Foot_L
+        weight: 1
+      - path: Hips/Hip_R
+        weight: 1
+      - path: Hips/Hip_R/Leg_Upper_01_R
+        weight: 1
+      - path: Hips/Hip_R/Leg_Upper_01_R/Leg_Upper_02_R
+        weight: 1
+      - path: Hips/Hip_R/Leg_Upper_01_R/Leg_Upper_02_R/Leg_Lower_R
+        weight: 1
+      - path: Hips/Hip_R/Leg_Upper_01_R/Leg_Upper_02_R/Leg_Lower_R/Foot_R
+        weight: 1
+      - path: Hips/Spine_01
+        weight: 1
+      - path: Hips/Spine_01/Spine_02
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_L
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_L/Arm_Upper_L
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_L/Arm_Upper_L/Arm_Lower_L
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_L/Arm_Upper_L/Arm_Lower_L/Hand_L
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_R
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_R/Arm_Upper_R
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_R/Arm_Upper_R/Arm_Lower_R
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Shoulder_R/Arm_Upper_R/Arm_Lower_R/Hand_R
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Ear_Root_L
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Ear_Root_L/Ear_L
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Ear_Root_R
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Ear_Root_R/Ear_R
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Head
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Jaw_Root
+        weight: 1
+      - path: Hips/Spine_01/Spine_02/Spine_03/Spine_04/Neck/Jaw_Root/Jaw
+        weight: 1
+      - path: Hips/Tail_Root
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06/Tail_07
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06/Tail_07/Tail_08
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06/Tail_07/Tail_08/Tail_09
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06/Tail_07/Tail_08/Tail_09/Tail_10
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06/Tail_07/Tail_08/Tail_09/Tail_10/Tail_11
+        weight: 1
+      - path: Hips/Tail_Root/Tail_01/Tail_02/Tail_03/Tail_04/Tail_05/Tail_06/Tail_07/Tail_08/Tail_09/Tail_10/Tail_11/Tail_12
+        weight: 1
+      - path: IK Chain001
+        weight: 1
+      - path: IK Chain002
+        weight: 1
+      - path: IK Chain003
+        weight: 1
+      - path: IK Chain004
+        weight: 1
+      - path: IK Chain005
+        weight: 1
+      - path: Sabertooth_Base_Short
+        weight: 1
+      - path: Sabertooth_Whiskers
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

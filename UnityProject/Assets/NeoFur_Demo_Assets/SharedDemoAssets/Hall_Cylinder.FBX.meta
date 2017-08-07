@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 1f0066ba1c9ffdf4dab2c72d5bc62913
+timeCreated: 1477016872
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object001
+    100004: Object002
+    100006: Object003
+    100008: Object004
+    100010: Object005
+    100012: Object006
+    100014: Object007
+    100016: Tube001
+    100018: Object008
+    100020: Object009
+    100022: Object010
+    100024: Object011
+    100026: Box005
+    100028: Box006
+    100030: Box007
+    100032: Box008
+    100034: Box009
+    100036: Box010
+    100038: Box011
+    100040: Box012
+    100042: Plane001
+    100044: Plane002
+    100046: Box013
+    100048: Object012
+    100050: Object013
+    100052: Object015
+    100054: StraightStair001
+    100056: Object016
+    100058: Object018
+    100060: StraightStair002
+    100062: StraightStair003
+    100064: StraightStair004
+    100066: Cylinder001
+    100068: Object019
+    100070: Object021
+    100072: Object022
+    100074: Object024
+    100076: Object027
+    100078: Object028
+    100080: Object030
+    100082: Object031
+    100084: Object032
+    100086: Object033
+    100088: Object034
+    100090: Box014
+    100092: Box015
+    100094: Box016
+    100096: Box017
+    100098: Box018
+    100100: Box019
+    100102: StraightStair005
+    100104: StraightStair006
+    100106: StraightStair007
+    100108: StraightStair012
+    100110: StraightStair015
+    100112: StraightStair019
+    100114: StraightStair021
+    100116: StraightStair025
+    100118: StraightStair028
+    100120: StraightStair032
+    100122: StraightStair034
+    100124: Object035
+    100126: Object036
+    100128: Object037
+    100130: Cylinder002
+    400000: //RootNode
+    400002: Object001
+    400004: Object002
+    400006: Object003
+    400008: Object004
+    400010: Object005
+    400012: Object006
+    400014: Object007
+    400016: Tube001
+    400018: Object008
+    400020: Object009
+    400022: Object010
+    400024: Object011
+    400026: Box005
+    400028: Box006
+    400030: Box007
+    400032: Box008
+    400034: Box009
+    400036: Box010
+    400038: Box011
+    400040: Box012
+    400042: Plane001
+    400044: Plane002
+    400046: Box013
+    400048: Object012
+    400050: Object013
+    400052: Object015
+    400054: StraightStair001
+    400056: Object016
+    400058: Object018
+    400060: StraightStair002
+    400062: StraightStair003
+    400064: StraightStair004
+    400066: Cylinder001
+    400068: Object019
+    400070: Object021
+    400072: Object022
+    400074: Object024
+    400076: Object027
+    400078: Object028
+    400080: Object030
+    400082: Object031
+    400084: Object032
+    400086: Object033
+    400088: Object034
+    400090: Box014
+    400092: Box015
+    400094: Box016
+    400096: Box017
+    400098: Box018
+    400100: Box019
+    400102: StraightStair005
+    400104: StraightStair006
+    400106: StraightStair007
+    400108: StraightStair012
+    400110: StraightStair015
+    400112: StraightStair019
+    400114: StraightStair021
+    400116: StraightStair025
+    400118: StraightStair028
+    400120: StraightStair032
+    400122: StraightStair034
+    400124: Object035
+    400126: Object036
+    400128: Object037
+    400130: Cylinder002
+    2300000: //RootNode
+    2300002: Object001
+    2300004: Object002
+    2300006: Object003
+    2300008: Object004
+    2300010: Object005
+    2300012: Object006
+    2300014: Object007
+    2300016: Tube001
+    2300018: Object008
+    2300020: Object009
+    2300022: Object010
+    2300024: Object011
+    2300026: Box005
+    2300028: Box006
+    2300030: Box007
+    2300032: Box008
+    2300034: Box009
+    2300036: Box010
+    2300038: Box011
+    2300040: Box012
+    2300042: Plane001
+    2300044: Plane002
+    2300046: Box013
+    2300048: Object012
+    2300050: Object013
+    2300052: Object015
+    2300054: StraightStair001
+    2300056: Object016
+    2300058: Object018
+    2300060: StraightStair002
+    2300062: StraightStair003
+    2300064: StraightStair004
+    2300066: Cylinder001
+    2300068: Object019
+    2300070: Object021
+    2300072: Object022
+    2300074: Object024
+    2300076: Object027
+    2300078: Object028
+    2300080: Object030
+    2300082: Object031
+    2300084: Object032
+    2300086: Object033
+    2300088: Object034
+    2300090: Box014
+    2300092: Box015
+    2300094: Box016
+    2300096: Box017
+    2300098: Box018
+    2300100: Box019
+    2300102: StraightStair005
+    2300104: StraightStair006
+    2300106: StraightStair007
+    2300108: StraightStair012
+    2300110: StraightStair015
+    2300112: StraightStair019
+    2300114: StraightStair021
+    2300116: StraightStair025
+    2300118: StraightStair028
+    2300120: StraightStair032
+    2300122: StraightStair034
+    2300124: Object035
+    2300126: Object036
+    2300128: Object037
+    2300130: Cylinder002
+    3300000: //RootNode
+    3300002: Object001
+    3300004: Object002
+    3300006: Object003
+    3300008: Object004
+    3300010: Object005
+    3300012: Object006
+    3300014: Object007
+    3300016: Tube001
+    3300018: Object008
+    3300020: Object009
+    3300022: Object010
+    3300024: Object011
+    3300026: Box005
+    3300028: Box006
+    3300030: Box007
+    3300032: Box008
+    3300034: Box009
+    3300036: Box010
+    3300038: Box011
+    3300040: Box012
+    3300042: Plane001
+    3300044: Plane002
+    3300046: Box013
+    3300048: Object012
+    3300050: Object013
+    3300052: Object015
+    3300054: StraightStair001
+    3300056: Object016
+    3300058: Object018
+    3300060: StraightStair002
+    3300062: StraightStair003
+    3300064: StraightStair004
+    3300066: Cylinder001
+    3300068: Object019
+    3300070: Object021
+    3300072: Object022
+    3300074: Object024
+    3300076: Object027
+    3300078: Object028
+    3300080: Object030
+    3300082: Object031
+    3300084: Object032
+    3300086: Object033
+    3300088: Object034
+    3300090: Box014
+    3300092: Box015
+    3300094: Box016
+    3300096: Box017
+    3300098: Box018
+    3300100: Box019
+    3300102: StraightStair005
+    3300104: StraightStair006
+    3300106: StraightStair007
+    3300108: StraightStair012
+    3300110: StraightStair015
+    3300112: StraightStair019
+    3300114: StraightStair021
+    3300116: StraightStair025
+    3300118: StraightStair028
+    3300120: StraightStair032
+    3300122: StraightStair034
+    3300124: Object035
+    3300126: Object036
+    3300128: Object037
+    3300130: Cylinder002
+    4300000: Tube001
+    4300002: Object001
+    4300004: Object002
+    4300006: Object003
+    4300008: Object004
+    4300010: Object005
+    4300012: Object006
+    4300014: Object007
+    4300016: Object008
+    4300018: Object009
+    4300020: Object010
+    4300022: Object011
+    4300024: Box005
+    4300026: Box006
+    4300028: Box007
+    4300030: Box008
+    4300032: Box009
+    4300034: Box010
+    4300036: Box011
+    4300038: Box012
+    4300040: Plane001
+    4300042: Plane002
+    4300044: Object012
+    4300046: StraightStair001
+    4300048: Box013
+    4300050: Object013
+    4300052: Object015
+    4300054: StraightStair002
+    4300056: StraightStair003
+    4300058: StraightStair004
+    4300060: Object016
+    4300062: Object018
+    4300064: Cylinder001
+    4300066: Object019
+    4300068: Object021
+    4300070: Object022
+    4300072: Object024
+    4300074: Object027
+    4300076: Object028
+    4300078: Object030
+    4300080: Object031
+    4300082: Object032
+    4300084: Object033
+    4300086: Object034
+    4300088: Box014
+    4300090: Box015
+    4300092: Box016
+    4300094: Box017
+    4300096: Box018
+    4300098: Box019
+    4300100: StraightStair005
+    4300102: StraightStair006
+    4300104: StraightStair007
+    4300106: StraightStair012
+    4300108: StraightStair015
+    4300110: StraightStair019
+    4300112: StraightStair021
+    4300114: StraightStair025
+    4300116: StraightStair028
+    4300118: StraightStair032
+    4300120: StraightStair034
+    4300122: Object035
+    4300124: Object036
+    4300126: Object037
+    4300128: Cylinder002
+    6400000: //RootNode
+    6400002: Object001
+    6400004: Object002
+    6400006: Object003
+    6400008: Object004
+    6400010: Object005
+    6400012: Object006
+    6400014: Object007
+    6400016: Tube001
+    6400018: Object008
+    6400020: Object009
+    6400022: Object010
+    6400024: Object011
+    6400026: Box005
+    6400028: Box006
+    6400030: Box007
+    6400032: Box008
+    6400034: Box009
+    6400036: Box010
+    6400038: Box011
+    6400040: Box012
+    6400042: Plane001
+    6400044: Plane002
+    6400046: Box013
+    6400048: Object012
+    6400050: Object013
+    6400052: Object015
+    6400054: StraightStair001
+    6400056: Object016
+    6400058: Object018
+    6400060: StraightStair002
+    6400062: StraightStair003
+    6400064: StraightStair004
+    6400066: Cylinder001
+    6400068: Object019
+    6400070: Object021
+    6400072: Object022
+    6400074: Object024
+    6400076: Object027
+    6400078: Object028
+    6400080: Object030
+    6400082: Object031
+    6400084: Object032
+    6400086: Object033
+    6400088: Object034
+    6400090: Box014
+    6400092: Box015
+    6400094: Box016
+    6400096: Box017
+    6400098: Box018
+    6400100: Box019
+    6400102: StraightStair005
+    6400104: StraightStair006
+    6400106: StraightStair007
+    6400108: StraightStair012
+    6400110: StraightStair015
+    6400112: StraightStair019
+    6400114: StraightStair021
+    6400116: StraightStair025
+    6400118: StraightStair028
+    6400120: StraightStair032
+    6400122: StraightStair034
+    6400124: Object035
+    6400126: Object036
+    6400128: Object037
+    6400130: Cylinder002
+    7400000: Take 001
+    7400002: Cylinder002|Box006|Take 001|BaseLayer
+    7400004: Cylinder002|Box013|Take 001|BaseLayer
+    7400006: Cylinder002|Box014|Take 001|BaseLayer
+    7400008: Cylinder002|Box015|Take 001|BaseLayer
+    7400010: Cylinder002|Box016|Take 001|BaseLayer
+    7400012: Cylinder002|Box017|Take 001|BaseLayer
+    7400014: Cylinder002|Box018|Take 001|BaseLayer
+    7400016: Cylinder002|Box019|Take 001|BaseLayer
+    7400018: Cylinder002|Cylinder001|Take 001|BaseLayer
+    7400020: Cylinder002|Cylinder002|Take 001|BaseLayer
+    7400022: Cylinder002|Object001|Take 001|BaseLayer
+    7400024: Cylinder002|Object002|Take 001|BaseLayer
+    7400026: Cylinder002|Object003|Take 001|BaseLayer
+    7400028: Cylinder002|Object004|Take 001|BaseLayer
+    7400030: Cylinder002|Object005|Take 001|BaseLayer
+    7400032: Cylinder002|Object006|Take 001|BaseLayer
+    7400034: Cylinder002|Object007|Take 001|BaseLayer
+    7400036: Cylinder002|Object008|Take 001|BaseLayer
+    7400038: Cylinder002|Object009|Take 001|BaseLayer
+    7400040: Cylinder002|Object010|Take 001|BaseLayer
+    7400042: Cylinder002|Object011|Take 001|BaseLayer
+    7400044: Cylinder002|Object032|Take 001|BaseLayer
+    7400046: Cylinder002|Object035|Take 001|BaseLayer
+    7400048: Cylinder002|Object036|Take 001|BaseLayer
+    7400050: Cylinder002|Object037|Take 001|BaseLayer
+    7400052: Cylinder002|StraightStair001|Take 001|BaseLayer
+    7400054: Cylinder002|StraightStair005|Take 001|BaseLayer
+    7400056: Cylinder002|StraightStair006|Take 001|BaseLayer
+    7400058: Cylinder002|StraightStair007|Take 001|BaseLayer
+    7400060: Cylinder002|StraightStair015|Take 001|BaseLayer
+    7400062: Cylinder002|StraightStair019|Take 001|BaseLayer
+    7400064: Cylinder002|StraightStair021|Take 001|BaseLayer
+    7400066: Cylinder002|StraightStair025|Take 001|BaseLayer
+    7400068: Cylinder002|StraightStair028|Take 001|BaseLayer
+    7400070: Cylinder002|StraightStair032|Take 001|BaseLayer
+    7400072: Cylinder002|StraightStair034|Take 001|BaseLayer
+    7400074: Cylinder002|Tube001|Take 001|BaseLayer
+    7400076: Object037|Box006|Take 001|BaseLayer
+    7400078: Object037|Box013|Take 001|BaseLayer
+    7400080: Object037|Box014|Take 001|BaseLayer
+    7400082: Object037|Box015|Take 001|BaseLayer
+    7400084: Object037|Box016|Take 001|BaseLayer
+    7400086: Object037|Box017|Take 001|BaseLayer
+    7400088: Object037|Box018|Take 001|BaseLayer
+    7400090: Object037|Box019|Take 001|BaseLayer
+    7400092: Object037|Cylinder001|Take 001|BaseLayer
+    7400094: Object037|Cylinder002|Take 001|BaseLayer
+    7400096: Object037|Object001|Take 001|BaseLayer
+    7400098: Object037|Object002|Take 001|BaseLayer
+    7400100: Object037|Object003|Take 001|BaseLayer
+    7400102: Object037|Object004|Take 001|BaseLayer
+    7400104: Object037|Object005|Take 001|BaseLayer
+    7400106: Object037|Object006|Take 001|BaseLayer
+    7400108: Object037|Object007|Take 001|BaseLayer
+    7400110: Object037|Object008|Take 001|BaseLayer
+    7400112: Object037|Object009|Take 001|BaseLayer
+    7400114: Object037|Object010|Take 001|BaseLayer
+    7400116: Object037|Object011|Take 001|BaseLayer
+    7400118: Object037|Object032|Take 001|BaseLayer
+    7400120: Object037|Object035|Take 001|BaseLayer
+    7400122: Object037|Object036|Take 001|BaseLayer
+    7400124: Object037|Object037|Take 001|BaseLayer
+    7400126: Object037|StraightStair001|Take 001|BaseLayer
+    7400128: Object037|StraightStair005|Take 001|BaseLayer
+    7400130: Object037|StraightStair006|Take 001|BaseLayer
+    7400132: Object037|StraightStair007|Take 001|BaseLayer
+    7400134: Object037|StraightStair015|Take 001|BaseLayer
+    7400136: Object037|StraightStair019|Take 001|BaseLayer
+    7400138: Object037|StraightStair021|Take 001|BaseLayer
+    7400140: Object037|StraightStair025|Take 001|BaseLayer
+    7400142: Object037|StraightStair028|Take 001|BaseLayer
+    7400144: Object037|StraightStair032|Take 001|BaseLayer
+    7400146: Object037|StraightStair034|Take 001|BaseLayer
+    7400148: Object037|Tube001|Take 001|BaseLayer
+    7400150: Object036|Box006|Take 001|BaseLayer
+    7400152: Object036|Box013|Take 001|BaseLayer
+    7400154: Object036|Box014|Take 001|BaseLayer
+    7400156: Object036|Box015|Take 001|BaseLayer
+    7400158: Object036|Box016|Take 001|BaseLayer
+    7400160: Object036|Box017|Take 001|BaseLayer
+    7400162: Object036|Box018|Take 001|BaseLayer
+    7400164: Object036|Box019|Take 001|BaseLayer
+    7400166: Object036|Cylinder001|Take 001|BaseLayer
+    7400168: Object036|Cylinder002|Take 001|BaseLayer
+    7400170: Object036|Object001|Take 001|BaseLayer
+    7400172: Object036|Object002|Take 001|BaseLayer
+    7400174: Object036|Object003|Take 001|BaseLayer
+    7400176: Object036|Object004|Take 001|BaseLayer
+    7400178: Object036|Object005|Take 001|BaseLayer
+    7400180: Object036|Object006|Take 001|BaseLayer
+    7400182: Object036|Object007|Take 001|BaseLayer
+    7400184: Object036|Object008|Take 001|BaseLayer
+    7400186: Object036|Object009|Take 001|BaseLayer
+    7400188: Object036|Object010|Take 001|BaseLayer
+    7400190: Object036|Object011|Take 001|BaseLayer
+    7400192: Object036|Object032|Take 001|BaseLayer
+    7400194: Object036|Object035|Take 001|BaseLayer
+    7400196: Object036|Object036|Take 001|BaseLayer
+    7400198: Object036|Object037|Take 001|BaseLayer
+    7400200: Object036|StraightStair001|Take 001|BaseLayer
+    7400202: Object036|StraightStair005|Take 001|BaseLayer
+    7400204: Object036|StraightStair006|Take 001|BaseLayer
+    7400206: Object036|StraightStair007|Take 001|BaseLayer
+    7400208: Object036|StraightStair015|Take 001|BaseLayer
+    7400210: Object036|StraightStair019|Take 001|BaseLayer
+    7400212: Object036|StraightStair021|Take 001|BaseLayer
+    7400214: Object036|StraightStair025|Take 001|BaseLayer
+    7400216: Object036|StraightStair028|Take 001|BaseLayer
+    7400218: Object036|StraightStair032|Take 001|BaseLayer
+    7400220: Object036|StraightStair034|Take 001|BaseLayer
+    7400222: Object036|Tube001|Take 001|BaseLayer
+    7400224: Object035|Box006|Take 001|BaseLayer
+    7400226: Object035|Box013|Take 001|BaseLayer
+    7400228: Object035|Box014|Take 001|BaseLayer
+    7400230: Object035|Box015|Take 001|BaseLayer
+    7400232: Object035|Box016|Take 001|BaseLayer
+    7400234: Object035|Box017|Take 001|BaseLayer
+    7400236: Object035|Box018|Take 001|BaseLayer
+    7400238: Object035|Box019|Take 001|BaseLayer
+    7400240: Object035|Cylinder001|Take 001|BaseLayer
+    7400242: Object035|Cylinder002|Take 001|BaseLayer
+    7400244: Object035|Object001|Take 001|BaseLayer
+    7400246: Object035|Object002|Take 001|BaseLayer
+    7400248: Object035|Object003|Take 001|BaseLayer
+    7400250: Object035|Object004|Take 001|BaseLayer
+    7400252: Object035|Object005|Take 001|BaseLayer
+    7400254: Object035|Object006|Take 001|BaseLayer
+    7400256: Object035|Object007|Take 001|BaseLayer
+    7400258: Object035|Object008|Take 001|BaseLayer
+    7400260: Object035|Object009|Take 001|BaseLayer
+    7400262: Object035|Object010|Take 001|BaseLayer
+    7400264: Object035|Object011|Take 001|BaseLayer
+    7400266: Object035|Object032|Take 001|BaseLayer
+    7400268: Object035|Object035|Take 001|BaseLayer
+    7400270: Object035|Object036|Take 001|BaseLayer
+    7400272: Object035|Object037|Take 001|BaseLayer
+    7400274: Object035|StraightStair001|Take 001|BaseLayer
+    7400276: Object035|StraightStair005|Take 001|BaseLayer
+    7400278: Object035|StraightStair006|Take 001|BaseLayer
+    7400280: Object035|StraightStair007|Take 001|BaseLayer
+    7400282: Object035|StraightStair015|Take 001|BaseLayer
+    7400284: Object035|StraightStair019|Take 001|BaseLayer
+    7400286: Object035|StraightStair021|Take 001|BaseLayer
+    7400288: Object035|StraightStair025|Take 001|BaseLayer
+    7400290: Object035|StraightStair028|Take 001|BaseLayer
+    7400292: Object035|StraightStair032|Take 001|BaseLayer
+    7400294: Object035|StraightStair034|Take 001|BaseLayer
+    7400296: Object035|Tube001|Take 001|BaseLayer
+    7400298: StraightStair034|Box006|Take 001|BaseLayer
+    7400300: StraightStair034|Box013|Take 001|BaseLayer
+    7400302: StraightStair034|Box014|Take 001|BaseLayer
+    7400304: StraightStair034|Box015|Take 001|BaseLayer
+    7400306: StraightStair034|Box016|Take 001|BaseLayer
+    7400308: StraightStair034|Box017|Take 001|BaseLayer
+    7400310: StraightStair034|Box018|Take 001|BaseLayer
+    7400312: StraightStair034|Box019|Take 001|BaseLayer
+    7400314: StraightStair034|Cylinder001|Take 001|BaseLayer
+    7400316: StraightStair034|Cylinder002|Take 001|BaseLayer
+    7400318: StraightStair034|Object001|Take 001|BaseLayer
+    7400320: StraightStair034|Object002|Take 001|BaseLayer
+    7400322: StraightStair034|Object003|Take 001|BaseLayer
+    7400324: StraightStair034|Object004|Take 001|BaseLayer
+    7400326: StraightStair034|Object005|Take 001|BaseLayer
+    7400328: StraightStair034|Object006|Take 001|BaseLayer
+    7400330: StraightStair034|Object007|Take 001|BaseLayer
+    7400332: StraightStair034|Object008|Take 001|BaseLayer
+    7400334: StraightStair034|Object009|Take 001|BaseLayer
+    7400336: StraightStair034|Object010|Take 001|BaseLayer
+    7400338: StraightStair034|Object011|Take 001|BaseLayer
+    7400340: StraightStair034|Object032|Take 001|BaseLayer
+    7400342: StraightStair034|Object035|Take 001|BaseLayer
+    7400344: StraightStair034|Object036|Take 001|BaseLayer
+    7400346: StraightStair034|Object037|Take 001|BaseLayer
+    7400348: StraightStair034|StraightStair001|Take 001|BaseLayer
+    7400350: StraightStair034|StraightStair005|Take 001|BaseLayer
+    7400352: StraightStair034|StraightStair006|Take 001|BaseLayer
+    7400354: StraightStair034|StraightStair007|Take 001|BaseLayer
+    7400356: StraightStair034|StraightStair015|Take 001|BaseLayer
+    7400358: StraightStair034|StraightStair019|Take 001|BaseLayer
+    7400360: StraightStair034|StraightStair021|Take 001|BaseLayer
+    7400362: StraightStair034|StraightStair025|Take 001|BaseLayer
+    7400364: StraightStair034|StraightStair028|Take 001|BaseLayer
+    7400366: StraightStair034|StraightStair032|Take 001|BaseLayer
+    7400368: StraightStair034|StraightStair034|Take 001|BaseLayer
+    7400370: StraightStair034|Tube001|Take 001|BaseLayer
+    7400372: StraightStair032|Box006|Take 001|BaseLayer
+    7400374: StraightStair032|Box013|Take 001|BaseLayer
+    7400376: StraightStair032|Box014|Take 001|BaseLayer
+    7400378: StraightStair032|Box015|Take 001|BaseLayer
+    7400380: StraightStair032|Box016|Take 001|BaseLayer
+    7400382: StraightStair032|Box017|Take 001|BaseLayer
+    7400384: StraightStair032|Box018|Take 001|BaseLayer
+    7400386: StraightStair032|Box019|Take 001|BaseLayer
+    7400388: StraightStair032|Cylinder001|Take 001|BaseLayer
+    7400390: StraightStair032|Cylinder002|Take 001|BaseLayer
+    7400392: StraightStair032|Object001|Take 001|BaseLayer
+    7400394: StraightStair032|Object002|Take 001|BaseLayer
+    7400396: StraightStair032|Object003|Take 001|BaseLayer
+    7400398: StraightStair032|Object004|Take 001|BaseLayer
+    7400400: StraightStair032|Object005|Take 001|BaseLayer
+    7400402: StraightStair032|Object006|Take 001|BaseLayer
+    7400404: StraightStair032|Object007|Take 001|BaseLayer
+    7400406: StraightStair032|Object008|Take 001|BaseLayer
+    7400408: StraightStair032|Object009|Take 001|BaseLayer
+    7400410: StraightStair032|Object010|Take 001|BaseLayer
+    7400412: StraightStair032|Object011|Take 001|BaseLayer
+    7400414: StraightStair032|Object032|Take 001|BaseLayer
+    7400416: StraightStair032|Object035|Take 001|BaseLayer
+    7400418: StraightStair032|Object036|Take 001|BaseLayer
+    7400420: StraightStair032|Object037|Take 001|BaseLayer
+    7400422: StraightStair032|StraightStair001|Take 001|BaseLayer
+    7400424: StraightStair032|StraightStair005|Take 001|BaseLayer
+    7400426: StraightStair032|StraightStair006|Take 001|BaseLayer
+    7400428: StraightStair032|StraightStair007|Take 001|BaseLayer
+    7400430: StraightStair032|StraightStair015|Take 001|BaseLayer
+    7400432: StraightStair032|StraightStair019|Take 001|BaseLayer
+    7400434: StraightStair032|StraightStair021|Take 001|BaseLayer
+    7400436: StraightStair032|StraightStair025|Take 001|BaseLayer
+    7400438: StraightStair032|StraightStair028|Take 001|BaseLayer
+    7400440: StraightStair032|StraightStair032|Take 001|BaseLayer
+    7400442: StraightStair032|StraightStair034|Take 001|BaseLayer
+    7400444: StraightStair032|Tube001|Take 001|BaseLayer
+    7400446: StraightStair028|Box006|Take 001|BaseLayer
+    7400448: StraightStair028|Box013|Take 001|BaseLayer
+    7400450: StraightStair028|Box014|Take 001|BaseLayer
+    7400452: StraightStair028|Box015|Take 001|BaseLayer
+    7400454: StraightStair028|Box016|Take 001|BaseLayer
+    7400456: StraightStair028|Box017|Take 001|BaseLayer
+    7400458: StraightStair028|Box018|Take 001|BaseLayer
+    7400460: StraightStair028|Box019|Take 001|BaseLayer
+    7400462: StraightStair028|Cylinder001|Take 001|BaseLayer
+    7400464: StraightStair028|Cylinder002|Take 001|BaseLayer
+    7400466: StraightStair028|Object001|Take 001|BaseLayer
+    7400468: StraightStair028|Object002|Take 001|BaseLayer
+    7400470: StraightStair028|Object003|Take 001|BaseLayer
+    7400472: StraightStair028|Object004|Take 001|BaseLayer
+    7400474: StraightStair028|Object005|Take 001|BaseLayer
+    7400476: StraightStair028|Object006|Take 001|BaseLayer
+    7400478: StraightStair028|Object007|Take 001|BaseLayer
+    7400480: StraightStair028|Object008|Take 001|BaseLayer
+    7400482: StraightStair028|Object009|Take 001|BaseLayer
+    7400484: StraightStair028|Object010|Take 001|BaseLayer
+    7400486: StraightStair028|Object011|Take 001|BaseLayer
+    7400488: StraightStair028|Object032|Take 001|BaseLayer
+    7400490: StraightStair028|Object035|Take 001|BaseLayer
+    7400492: StraightStair028|Object036|Take 001|BaseLayer
+    7400494: StraightStair028|Object037|Take 001|BaseLayer
+    7400496: StraightStair028|StraightStair001|Take 001|BaseLayer
+    7400498: StraightStair028|StraightStair005|Take 001|BaseLayer
+    7400500: StraightStair028|StraightStair006|Take 001|BaseLayer
+    7400502: StraightStair028|StraightStair007|Take 001|BaseLayer
+    7400504: StraightStair028|StraightStair015|Take 001|BaseLayer
+    7400506: StraightStair028|StraightStair019|Take 001|BaseLayer
+    7400508: StraightStair028|StraightStair021|Take 001|BaseLayer
+    7400510: StraightStair028|StraightStair025|Take 001|BaseLayer
+    7400512: StraightStair028|StraightStair028|Take 001|BaseLayer
+    7400514: StraightStair028|StraightStair032|Take 001|BaseLayer
+    7400516: StraightStair028|StraightStair034|Take 001|BaseLayer
+    7400518: StraightStair028|Tube001|Take 001|BaseLayer
+    7400520: StraightStair025|Box006|Take 001|BaseLayer
+    7400522: StraightStair025|Box013|Take 001|BaseLayer
+    7400524: StraightStair025|Box014|Take 001|BaseLayer
+    7400526: StraightStair025|Box015|Take 001|BaseLayer
+    7400528: StraightStair025|Box016|Take 001|BaseLayer
+    7400530: StraightStair025|Box017|Take 001|BaseLayer
+    7400532: StraightStair025|Box018|Take 001|BaseLayer
+    7400534: StraightStair025|Box019|Take 001|BaseLayer
+    7400536: StraightStair025|Cylinder001|Take 001|BaseLayer
+    7400538: StraightStair025|Cylinder002|Take 001|BaseLayer
+    7400540: StraightStair025|Object001|Take 001|BaseLayer
+    7400542: StraightStair025|Object002|Take 001|BaseLayer
+    7400544: StraightStair025|Object003|Take 001|BaseLayer
+    7400546: StraightStair025|Object004|Take 001|BaseLayer
+    7400548: StraightStair025|Object005|Take 001|BaseLayer
+    7400550: StraightStair025|Object006|Take 001|BaseLayer
+    7400552: StraightStair025|Object007|Take 001|BaseLayer
+    7400554: StraightStair025|Object008|Take 001|BaseLayer
+    7400556: StraightStair025|Object009|Take 001|BaseLayer
+    7400558: StraightStair025|Object010|Take 001|BaseLayer
+    7400560: StraightStair025|Object011|Take 001|BaseLayer
+    7400562: StraightStair025|Object032|Take 001|BaseLayer
+    7400564: StraightStair025|Object035|Take 001|BaseLayer
+    7400566: StraightStair025|Object036|Take 001|BaseLayer
+    7400568: StraightStair025|Object037|Take 001|BaseLayer
+    7400570: StraightStair025|StraightStair001|Take 001|BaseLayer
+    7400572: StraightStair025|StraightStair005|Take 001|BaseLayer
+    7400574: StraightStair025|StraightStair006|Take 001|BaseLayer
+    7400576: StraightStair025|StraightStair007|Take 001|BaseLayer
+    7400578: StraightStair025|StraightStair015|Take 001|BaseLayer
+    7400580: StraightStair025|StraightStair019|Take 001|BaseLayer
+    7400582: StraightStair025|StraightStair021|Take 001|BaseLayer
+    7400584: StraightStair025|StraightStair025|Take 001|BaseLayer
+    7400586: StraightStair025|StraightStair028|Take 001|BaseLayer
+    7400588: StraightStair025|StraightStair032|Take 001|BaseLayer
+    7400590: StraightStair025|StraightStair034|Take 001|BaseLayer
+    7400592: StraightStair025|Tube001|Take 001|BaseLayer
+    7400594: StraightStair021|Box006|Take 001|BaseLayer
+    7400596: StraightStair021|Box013|Take 001|BaseLayer
+    7400598: StraightStair021|Box014|Take 001|BaseLayer
+    7400600: StraightStair021|Box015|Take 001|BaseLayer
+    7400602: StraightStair021|Box016|Take 001|BaseLayer
+    7400604: StraightStair021|Box017|Take 001|BaseLayer
+    7400606: StraightStair021|Box018|Take 001|BaseLayer
+    7400608: StraightStair021|Box019|Take 001|BaseLayer
+    7400610: StraightStair021|Cylinder001|Take 001|BaseLayer
+    7400612: StraightStair021|Cylinder002|Take 001|BaseLayer
+    7400614: StraightStair021|Object001|Take 001|BaseLayer
+    7400616: StraightStair021|Object002|Take 001|BaseLayer
+    7400618: StraightStair021|Object003|Take 001|BaseLayer
+    7400620: StraightStair021|Object004|Take 001|BaseLayer
+    7400622: StraightStair021|Object005|Take 001|BaseLayer
+    7400624: StraightStair021|Object006|Take 001|BaseLayer
+    7400626: StraightStair021|Object007|Take 001|BaseLayer
+    7400628: StraightStair021|Object008|Take 001|BaseLayer
+    7400630: StraightStair021|Object009|Take 001|BaseLayer
+    7400632: StraightStair021|Object010|Take 001|BaseLayer
+    7400634: StraightStair021|Object011|Take 001|BaseLayer
+    7400636: StraightStair021|Object032|Take 001|BaseLayer
+    7400638: StraightStair021|Object035|Take 001|BaseLayer
+    7400640: StraightStair021|Object036|Take 001|BaseLayer
+    7400642: StraightStair021|Object037|Take 001|BaseLayer
+    7400644: StraightStair021|StraightStair001|Take 001|BaseLayer
+    7400646: StraightStair021|StraightStair005|Take 001|BaseLayer
+    7400648: StraightStair021|StraightStair006|Take 001|BaseLayer
+    7400650: StraightStair021|StraightStair007|Take 001|BaseLayer
+    7400652: StraightStair021|StraightStair015|Take 001|BaseLayer
+    7400654: StraightStair021|StraightStair019|Take 001|BaseLayer
+    7400656: StraightStair021|StraightStair021|Take 001|BaseLayer
+    7400658: StraightStair021|StraightStair025|Take 001|BaseLayer
+    7400660: StraightStair021|StraightStair028|Take 001|BaseLayer
+    7400662: StraightStair021|StraightStair032|Take 001|BaseLayer
+    7400664: StraightStair021|StraightStair034|Take 001|BaseLayer
+    7400666: StraightStair021|Tube001|Take 001|BaseLayer
+    7400668: StraightStair019|Box006|Take 001|BaseLayer
+    7400670: StraightStair019|Box013|Take 001|BaseLayer
+    7400672: StraightStair019|Box014|Take 001|BaseLayer
+    7400674: StraightStair019|Box015|Take 001|BaseLayer
+    7400676: StraightStair019|Box016|Take 001|BaseLayer
+    7400678: StraightStair019|Box017|Take 001|BaseLayer
+    7400680: StraightStair019|Box018|Take 001|BaseLayer
+    7400682: StraightStair019|Box019|Take 001|BaseLayer
+    7400684: StraightStair019|Cylinder001|Take 001|BaseLayer
+    7400686: StraightStair019|Cylinder002|Take 001|BaseLayer
+    7400688: StraightStair019|Object001|Take 001|BaseLayer
+    7400690: StraightStair019|Object002|Take 001|BaseLayer
+    7400692: StraightStair019|Object003|Take 001|BaseLayer
+    7400694: StraightStair019|Object004|Take 001|BaseLayer
+    7400696: StraightStair019|Object005|Take 001|BaseLayer
+    7400698: StraightStair019|Object006|Take 001|BaseLayer
+    7400700: StraightStair019|Object007|Take 001|BaseLayer
+    7400702: StraightStair019|Object008|Take 001|BaseLayer
+    7400704: StraightStair019|Object009|Take 001|BaseLayer
+    7400706: StraightStair019|Object010|Take 001|BaseLayer
+    7400708: StraightStair019|Object011|Take 001|BaseLayer
+    7400710: StraightStair019|Object032|Take 001|BaseLayer
+    7400712: StraightStair019|Object035|Take 001|BaseLayer
+    7400714: StraightStair019|Object036|Take 001|BaseLayer
+    7400716: StraightStair019|Object037|Take 001|BaseLayer
+    7400718: StraightStair019|StraightStair001|Take 001|BaseLayer
+    7400720: StraightStair019|StraightStair005|Take 001|BaseLayer
+    7400722: StraightStair019|StraightStair006|Take 001|BaseLayer
+    7400724: StraightStair019|StraightStair007|Take 001|BaseLayer
+    7400726: StraightStair019|StraightStair015|Take 001|BaseLayer
+    7400728: StraightStair019|StraightStair019|Take 001|BaseLayer
+    7400730: StraightStair019|StraightStair021|Take 001|BaseLayer
+    7400732: StraightStair019|StraightStair025|Take 001|BaseLayer
+    7400734: StraightStair019|StraightStair028|Take 001|BaseLayer
+    7400736: StraightStair019|StraightStair032|Take 001|BaseLayer
+    7400738: StraightStair019|StraightStair034|Take 001|BaseLayer
+    7400740: StraightStair019|Tube001|Take 001|BaseLayer
+    7400742: StraightStair015|Box006|Take 001|BaseLayer
+    7400744: StraightStair015|Box013|Take 001|BaseLayer
+    7400746: StraightStair015|Box014|Take 001|BaseLayer
+    7400748: StraightStair015|Box015|Take 001|BaseLayer
+    7400750: StraightStair015|Box016|Take 001|BaseLayer
+    7400752: StraightStair015|Box017|Take 001|BaseLayer
+    7400754: StraightStair015|Box018|Take 001|BaseLayer
+    7400756: StraightStair015|Box019|Take 001|BaseLayer
+    7400758: StraightStair015|Cylinder001|Take 001|BaseLayer
+    7400760: StraightStair015|Cylinder002|Take 001|BaseLayer
+    7400762: StraightStair015|Object001|Take 001|BaseLayer
+    7400764: StraightStair015|Object002|Take 001|BaseLayer
+    7400766: StraightStair015|Object003|Take 001|BaseLayer
+    7400768: StraightStair015|Object004|Take 001|BaseLayer
+    7400770: StraightStair015|Object005|Take 001|BaseLayer
+    7400772: StraightStair015|Object006|Take 001|BaseLayer
+    7400774: StraightStair015|Object007|Take 001|BaseLayer
+    7400776: StraightStair015|Object008|Take 001|BaseLayer
+    7400778: StraightStair015|Object009|Take 001|BaseLayer
+    7400780: StraightStair015|Object010|Take 001|BaseLayer
+    7400782: StraightStair015|Object011|Take 001|BaseLayer
+    7400784: StraightStair015|Object032|Take 001|BaseLayer
+    7400786: StraightStair015|Object035|Take 001|BaseLayer
+    7400788: StraightStair015|Object036|Take 001|BaseLayer
+    7400790: StraightStair015|Object037|Take 001|BaseLayer
+    7400792: StraightStair015|StraightStair001|Take 001|BaseLayer
+    7400794: StraightStair015|StraightStair005|Take 001|BaseLayer
+    7400796: StraightStair015|StraightStair006|Take 001|BaseLayer
+    7400798: StraightStair015|StraightStair007|Take 001|BaseLayer
+    7400800: StraightStair015|StraightStair015|Take 001|BaseLayer
+    7400802: StraightStair015|StraightStair019|Take 001|BaseLayer
+    7400804: StraightStair015|StraightStair021|Take 001|BaseLayer
+    7400806: StraightStair015|StraightStair025|Take 001|BaseLayer
+    7400808: StraightStair015|StraightStair028|Take 001|BaseLayer
+    7400810: StraightStair015|StraightStair032|Take 001|BaseLayer
+    7400812: StraightStair015|StraightStair034|Take 001|BaseLayer
+    7400814: StraightStair015|Tube001|Take 001|BaseLayer
+    7400816: StraightStair007|Box006|Take 001|BaseLayer
+    7400818: StraightStair007|Box013|Take 001|BaseLayer
+    7400820: StraightStair007|Box014|Take 001|BaseLayer
+    7400822: StraightStair007|Box015|Take 001|BaseLayer
+    7400824: StraightStair007|Box016|Take 001|BaseLayer
+    7400826: StraightStair007|Box017|Take 001|BaseLayer
+    7400828: StraightStair007|Box018|Take 001|BaseLayer
+    7400830: StraightStair007|Box019|Take 001|BaseLayer
+    7400832: StraightStair007|Cylinder001|Take 001|BaseLayer
+    7400834: StraightStair007|Cylinder002|Take 001|BaseLayer
+    7400836: StraightStair007|Object001|Take 001|BaseLayer
+    7400838: StraightStair007|Object002|Take 001|BaseLayer
+    7400840: StraightStair007|Object003|Take 001|BaseLayer
+    7400842: StraightStair007|Object004|Take 001|BaseLayer
+    7400844: StraightStair007|Object005|Take 001|BaseLayer
+    7400846: StraightStair007|Object006|Take 001|BaseLayer
+    7400848: StraightStair007|Object007|Take 001|BaseLayer
+    7400850: StraightStair007|Object008|Take 001|BaseLayer
+    7400852: StraightStair007|Object009|Take 001|BaseLayer
+    7400854: StraightStair007|Object010|Take 001|BaseLayer
+    7400856: StraightStair007|Object011|Take 001|BaseLayer
+    7400858: StraightStair007|Object032|Take 001|BaseLayer
+    7400860: StraightStair007|Object035|Take 001|BaseLayer
+    7400862: StraightStair007|Object036|Take 001|BaseLayer
+    7400864: StraightStair007|Object037|Take 001|BaseLayer
+    7400866: StraightStair007|StraightStair001|Take 001|BaseLayer
+    7400868: StraightStair007|StraightStair005|Take 001|BaseLayer
+    7400870: StraightStair007|StraightStair006|Take 001|BaseLayer
+    7400872: StraightStair007|StraightStair007|Take 001|BaseLayer
+    7400874: StraightStair007|StraightStair015|Take 001|BaseLayer
+    7400876: StraightStair007|StraightStair019|Take 001|BaseLayer
+    7400878: StraightStair007|StraightStair021|Take 001|BaseLayer
+    7400880: StraightStair007|StraightStair025|Take 001|BaseLayer
+    7400882: StraightStair007|StraightStair028|Take 001|BaseLayer
+    7400884: StraightStair007|StraightStair032|Take 001|BaseLayer
+    7400886: StraightStair007|StraightStair034|Take 001|BaseLayer
+    7400888: StraightStair007|Tube001|Take 001|BaseLayer
+    7400890: StraightStair006|Box006|Take 001|BaseLayer
+    7400892: StraightStair006|Box013|Take 001|BaseLayer
+    7400894: StraightStair006|Box014|Take 001|BaseLayer
+    7400896: StraightStair006|Box015|Take 001|BaseLayer
+    7400898: StraightStair006|Box016|Take 001|BaseLayer
+    7400900: StraightStair006|Box017|Take 001|BaseLayer
+    7400902: StraightStair006|Box018|Take 001|BaseLayer
+    7400904: StraightStair006|Box019|Take 001|BaseLayer
+    7400906: StraightStair006|Cylinder001|Take 001|BaseLayer
+    7400908: StraightStair006|Cylinder002|Take 001|BaseLayer
+    7400910: StraightStair006|Object001|Take 001|BaseLayer
+    7400912: StraightStair006|Object002|Take 001|BaseLayer
+    7400914: StraightStair006|Object003|Take 001|BaseLayer
+    7400916: StraightStair006|Object004|Take 001|BaseLayer
+    7400918: StraightStair006|Object005|Take 001|BaseLayer
+    7400920: StraightStair006|Object006|Take 001|BaseLayer
+    7400922: StraightStair006|Object007|Take 001|BaseLayer
+    7400924: StraightStair006|Object008|Take 001|BaseLayer
+    7400926: StraightStair006|Object009|Take 001|BaseLayer
+    7400928: StraightStair006|Object010|Take 001|BaseLayer
+    7400930: StraightStair006|Object011|Take 001|BaseLayer
+    7400932: StraightStair006|Object032|Take 001|BaseLayer
+    7400934: StraightStair006|Object035|Take 001|BaseLayer
+    7400936: StraightStair006|Object036|Take 001|BaseLayer
+    7400938: StraightStair006|Object037|Take 001|BaseLayer
+    7400940: StraightStair006|StraightStair001|Take 001|BaseLayer
+    7400942: StraightStair006|StraightStair005|Take 001|BaseLayer
+    7400944: StraightStair006|StraightStair006|Take 001|BaseLayer
+    7400946: StraightStair006|StraightStair007|Take 001|BaseLayer
+    7400948: StraightStair006|StraightStair015|Take 001|BaseLayer
+    7400950: StraightStair006|StraightStair019|Take 001|BaseLayer
+    7400952: StraightStair006|StraightStair021|Take 001|BaseLayer
+    7400954: StraightStair006|StraightStair025|Take 001|BaseLayer
+    7400956: StraightStair006|StraightStair028|Take 001|BaseLayer
+    7400958: StraightStair006|StraightStair032|Take 001|BaseLayer
+    7400960: StraightStair006|StraightStair034|Take 001|BaseLayer
+    7400962: StraightStair006|Tube001|Take 001|BaseLayer
+    7400964: StraightStair005|Box006|Take 001|BaseLayer
+    7400966: StraightStair005|Box013|Take 001|BaseLayer
+    7400968: StraightStair005|Box014|Take 001|BaseLayer
+    7400970: StraightStair005|Box015|Take 001|BaseLayer
+    7400972: StraightStair005|Box016|Take 001|BaseLayer
+    7400974: StraightStair005|Box017|Take 001|BaseLayer
+    7400976: StraightStair005|Box018|Take 001|BaseLayer
+    7400978: StraightStair005|Box019|Take 001|BaseLayer
+    7400980: StraightStair005|Cylinder001|Take 001|BaseLayer
+    7400982: StraightStair005|Cylinder002|Take 001|BaseLayer
+    7400984: StraightStair005|Object001|Take 001|BaseLayer
+    7400986: StraightStair005|Object002|Take 001|BaseLayer
+    7400988: StraightStair005|Object003|Take 001|BaseLayer
+    7400990: StraightStair005|Object004|Take 001|BaseLayer
+    7400992: StraightStair005|Object005|Take 001|BaseLayer
+    7400994: StraightStair005|Object006|Take 001|BaseLayer
+    7400996: StraightStair005|Object007|Take 001|BaseLayer
+    7400998: StraightStair005|Object008|Take 001|BaseLayer
+    7401000: StraightStair005|Object009|Take 001|BaseLayer
+    7401002: StraightStair005|Object010|Take 001|BaseLayer
+    7401004: StraightStair005|Object011|Take 001|BaseLayer
+    7401006: StraightStair005|Object032|Take 001|BaseLayer
+    7401008: StraightStair005|Object035|Take 001|BaseLayer
+    7401010: StraightStair005|Object036|Take 001|BaseLayer
+    7401012: StraightStair005|Object037|Take 001|BaseLayer
+    7401014: StraightStair005|StraightStair001|Take 001|BaseLayer
+    7401016: StraightStair005|StraightStair005|Take 001|BaseLayer
+    7401018: StraightStair005|StraightStair006|Take 001|BaseLayer
+    7401020: StraightStair005|StraightStair007|Take 001|BaseLayer
+    7401022: StraightStair005|StraightStair015|Take 001|BaseLayer
+    7401024: StraightStair005|StraightStair019|Take 001|BaseLayer
+    7401026: StraightStair005|StraightStair021|Take 001|BaseLayer
+    7401028: StraightStair005|StraightStair025|Take 001|BaseLayer
+    7401030: StraightStair005|StraightStair028|Take 001|BaseLayer
+    7401032: StraightStair005|StraightStair032|Take 001|BaseLayer
+    7401034: StraightStair005|StraightStair034|Take 001|BaseLayer
+    7401036: StraightStair005|Tube001|Take 001|BaseLayer
+    7401038: Box019|Box006|Take 001|BaseLayer
+    7401040: Box019|Box013|Take 001|BaseLayer
+    7401042: Box019|Box014|Take 001|BaseLayer
+    7401044: Box019|Box015|Take 001|BaseLayer
+    7401046: Box019|Box016|Take 001|BaseLayer
+    7401048: Box019|Box017|Take 001|BaseLayer
+    7401050: Box019|Box018|Take 001|BaseLayer
+    7401052: Box019|Box019|Take 001|BaseLayer
+    7401054: Box019|Cylinder001|Take 001|BaseLayer
+    7401056: Box019|Cylinder002|Take 001|BaseLayer
+    7401058: Box019|Object001|Take 001|BaseLayer
+    7401060: Box019|Object002|Take 001|BaseLayer
+    7401062: Box019|Object003|Take 001|BaseLayer
+    7401064: Box019|Object004|Take 001|BaseLayer
+    7401066: Box019|Object005|Take 001|BaseLayer
+    7401068: Box019|Object006|Take 001|BaseLayer
+    7401070: Box019|Object007|Take 001|BaseLayer
+    7401072: Box019|Object008|Take 001|BaseLayer
+    7401074: Box019|Object009|Take 001|BaseLayer
+    7401076: Box019|Object010|Take 001|BaseLayer
+    7401078: Box019|Object011|Take 001|BaseLayer
+    7401080: Box019|Object032|Take 001|BaseLayer
+    7401082: Box019|Object035|Take 001|BaseLayer
+    7401084: Box019|Object036|Take 001|BaseLayer
+    7401086: Box019|Object037|Take 001|BaseLayer
+    7401088: Box019|StraightStair001|Take 001|BaseLayer
+    7401090: Box019|StraightStair005|Take 001|BaseLayer
+    7401092: Box019|StraightStair006|Take 001|BaseLayer
+    7401094: Box019|StraightStair007|Take 001|BaseLayer
+    7401096: Box019|StraightStair015|Take 001|BaseLayer
+    7401098: Box019|StraightStair019|Take 001|BaseLayer
+    7401100: Box019|StraightStair021|Take 001|BaseLayer
+    7401102: Box019|StraightStair025|Take 001|BaseLayer
+    7401104: Box019|StraightStair028|Take 001|BaseLayer
+    7401106: Box019|StraightStair032|Take 001|BaseLayer
+    7401108: Box019|StraightStair034|Take 001|BaseLayer
+    7401110: Box019|Tube001|Take 001|BaseLayer
+    7401112: Box018|Box006|Take 001|BaseLayer
+    7401114: Box018|Box013|Take 001|BaseLayer
+    7401116: Box018|Box014|Take 001|BaseLayer
+    7401118: Box018|Box015|Take 001|BaseLayer
+    7401120: Box018|Box016|Take 001|BaseLayer
+    7401122: Box018|Box017|Take 001|BaseLayer
+    7401124: Box018|Box018|Take 001|BaseLayer
+    7401126: Box018|Box019|Take 001|BaseLayer
+    7401128: Box018|Cylinder001|Take 001|BaseLayer
+    7401130: Box018|Cylinder002|Take 001|BaseLayer
+    7401132: Box018|Object001|Take 001|BaseLayer
+    7401134: Box018|Object002|Take 001|BaseLayer
+    7401136: Box018|Object003|Take 001|BaseLayer
+    7401138: Box018|Object004|Take 001|BaseLayer
+    7401140: Box018|Object005|Take 001|BaseLayer
+    7401142: Box018|Object006|Take 001|BaseLayer
+    7401144: Box018|Object007|Take 001|BaseLayer
+    7401146: Box018|Object008|Take 001|BaseLayer
+    7401148: Box018|Object009|Take 001|BaseLayer
+    7401150: Box018|Object010|Take 001|BaseLayer
+    7401152: Box018|Object011|Take 001|BaseLayer
+    7401154: Box018|Object032|Take 001|BaseLayer
+    7401156: Box018|Object035|Take 001|BaseLayer
+    7401158: Box018|Object036|Take 001|BaseLayer
+    7401160: Box018|Object037|Take 001|BaseLayer
+    7401162: Box018|StraightStair001|Take 001|BaseLayer
+    7401164: Box018|StraightStair005|Take 001|BaseLayer
+    7401166: Box018|StraightStair006|Take 001|BaseLayer
+    7401168: Box018|StraightStair007|Take 001|BaseLayer
+    7401170: Box018|StraightStair015|Take 001|BaseLayer
+    7401172: Box018|StraightStair019|Take 001|BaseLayer
+    7401174: Box018|StraightStair021|Take 001|BaseLayer
+    7401176: Box018|StraightStair025|Take 001|BaseLayer
+    7401178: Box018|StraightStair028|Take 001|BaseLayer
+    7401180: Box018|StraightStair032|Take 001|BaseLayer
+    7401182: Box018|StraightStair034|Take 001|BaseLayer
+    7401184: Box018|Tube001|Take 001|BaseLayer
+    7401186: Box017|Box006|Take 001|BaseLayer
+    7401188: Box017|Box013|Take 001|BaseLayer
+    7401190: Box017|Box014|Take 001|BaseLayer
+    7401192: Box017|Box015|Take 001|BaseLayer
+    7401194: Box017|Box016|Take 001|BaseLayer
+    7401196: Box017|Box017|Take 001|BaseLayer
+    7401198: Box017|Box018|Take 001|BaseLayer
+    7401200: Box017|Box019|Take 001|BaseLayer
+    7401202: Box017|Cylinder001|Take 001|BaseLayer
+    7401204: Box017|Cylinder002|Take 001|BaseLayer
+    7401206: Box017|Object001|Take 001|BaseLayer
+    7401208: Box017|Object002|Take 001|BaseLayer
+    7401210: Box017|Object003|Take 001|BaseLayer
+    7401212: Box017|Object004|Take 001|BaseLayer
+    7401214: Box017|Object005|Take 001|BaseLayer
+    7401216: Box017|Object006|Take 001|BaseLayer
+    7401218: Box017|Object007|Take 001|BaseLayer
+    7401220: Box017|Object008|Take 001|BaseLayer
+    7401222: Box017|Object009|Take 001|BaseLayer
+    7401224: Box017|Object010|Take 001|BaseLayer
+    7401226: Box017|Object011|Take 001|BaseLayer
+    7401228: Box017|Object032|Take 001|BaseLayer
+    7401230: Box017|Object035|Take 001|BaseLayer
+    7401232: Box017|Object036|Take 001|BaseLayer
+    7401234: Box017|Object037|Take 001|BaseLayer
+    7401236: Box017|StraightStair001|Take 001|BaseLayer
+    7401238: Box017|StraightStair005|Take 001|BaseLayer
+    7401240: Box017|StraightStair006|Take 001|BaseLayer
+    7401242: Box017|StraightStair007|Take 001|BaseLayer
+    7401244: Box017|StraightStair015|Take 001|BaseLayer
+    7401246: Box017|StraightStair019|Take 001|BaseLayer
+    7401248: Box017|StraightStair021|Take 001|BaseLayer
+    7401250: Box017|StraightStair025|Take 001|BaseLayer
+    7401252: Box017|StraightStair028|Take 001|BaseLayer
+    7401254: Box017|StraightStair032|Take 001|BaseLayer
+    7401256: Box017|StraightStair034|Take 001|BaseLayer
+    7401258: Box017|Tube001|Take 001|BaseLayer
+    7401260: Box016|Box006|Take 001|BaseLayer
+    7401262: Box016|Box013|Take 001|BaseLayer
+    7401264: Box016|Box014|Take 001|BaseLayer
+    7401266: Box016|Box015|Take 001|BaseLayer
+    7401268: Box016|Box016|Take 001|BaseLayer
+    7401270: Box016|Box017|Take 001|BaseLayer
+    7401272: Box016|Box018|Take 001|BaseLayer
+    7401274: Box016|Box019|Take 001|BaseLayer
+    7401276: Box016|Cylinder001|Take 001|BaseLayer
+    7401278: Box016|Cylinder002|Take 001|BaseLayer
+    7401280: Box016|Object001|Take 001|BaseLayer
+    7401282: Box016|Object002|Take 001|BaseLayer
+    7401284: Box016|Object003|Take 001|BaseLayer
+    7401286: Box016|Object004|Take 001|BaseLayer
+    7401288: Box016|Object005|Take 001|BaseLayer
+    7401290: Box016|Object006|Take 001|BaseLayer
+    7401292: Box016|Object007|Take 001|BaseLayer
+    7401294: Box016|Object008|Take 001|BaseLayer
+    7401296: Box016|Object009|Take 001|BaseLayer
+    7401298: Box016|Object010|Take 001|BaseLayer
+    7401300: Box016|Object011|Take 001|BaseLayer
+    7401302: Box016|Object032|Take 001|BaseLayer
+    7401304: Box016|Object035|Take 001|BaseLayer
+    7401306: Box016|Object036|Take 001|BaseLayer
+    7401308: Box016|Object037|Take 001|BaseLayer
+    7401310: Box016|StraightStair001|Take 001|BaseLayer
+    7401312: Box016|StraightStair005|Take 001|BaseLayer
+    7401314: Box016|StraightStair006|Take 001|BaseLayer
+    7401316: Box016|StraightStair007|Take 001|BaseLayer
+    7401318: Box016|StraightStair015|Take 001|BaseLayer
+    7401320: Box016|StraightStair019|Take 001|BaseLayer
+    7401322: Box016|StraightStair021|Take 001|BaseLayer
+    7401324: Box016|StraightStair025|Take 001|BaseLayer
+    7401326: Box016|StraightStair028|Take 001|BaseLayer
+    7401328: Box016|StraightStair032|Take 001|BaseLayer
+    7401330: Box016|StraightStair034|Take 001|BaseLayer
+    7401332: Box016|Tube001|Take 001|BaseLayer
+    7401334: Box015|Box006|Take 001|BaseLayer
+    7401336: Box015|Box013|Take 001|BaseLayer
+    7401338: Box015|Box014|Take 001|BaseLayer
+    7401340: Box015|Box015|Take 001|BaseLayer
+    7401342: Box015|Box016|Take 001|BaseLayer
+    7401344: Box015|Box017|Take 001|BaseLayer
+    7401346: Box015|Box018|Take 001|BaseLayer
+    7401348: Box015|Box019|Take 001|BaseLayer
+    7401350: Box015|Cylinder001|Take 001|BaseLayer
+    7401352: Box015|Cylinder002|Take 001|BaseLayer
+    7401354: Box015|Object001|Take 001|BaseLayer
+    7401356: Box015|Object002|Take 001|BaseLayer
+    7401358: Box015|Object003|Take 001|BaseLayer
+    7401360: Box015|Object004|Take 001|BaseLayer
+    7401362: Box015|Object005|Take 001|BaseLayer
+    7401364: Box015|Object006|Take 001|BaseLayer
+    7401366: Box015|Object007|Take 001|BaseLayer
+    7401368: Box015|Object008|Take 001|BaseLayer
+    7401370: Box015|Object009|Take 001|BaseLayer
+    7401372: Box015|Object010|Take 001|BaseLayer
+    7401374: Box015|Object011|Take 001|BaseLayer
+    7401376: Box015|Object032|Take 001|BaseLayer
+    7401378: Box015|Object035|Take 001|BaseLayer
+    7401380: Box015|Object036|Take 001|BaseLayer
+    7401382: Box015|Object037|Take 001|BaseLayer
+    7401384: Box015|StraightStair001|Take 001|BaseLayer
+    7401386: Box015|StraightStair005|Take 001|BaseLayer
+    7401388: Box015|StraightStair006|Take 001|BaseLayer
+    7401390: Box015|StraightStair007|Take 001|BaseLayer
+    7401392: Box015|StraightStair015|Take 001|BaseLayer
+    7401394: Box015|StraightStair019|Take 001|BaseLayer
+    7401396: Box015|StraightStair021|Take 001|BaseLayer
+    7401398: Box015|StraightStair025|Take 001|BaseLayer
+    7401400: Box015|StraightStair028|Take 001|BaseLayer
+    7401402: Box015|StraightStair032|Take 001|BaseLayer
+    7401404: Box015|StraightStair034|Take 001|BaseLayer
+    7401406: Box015|Tube001|Take 001|BaseLayer
+    7401408: Box014|Box006|Take 001|BaseLayer
+    7401410: Box014|Box013|Take 001|BaseLayer
+    7401412: Box014|Box014|Take 001|BaseLayer
+    7401414: Box014|Box015|Take 001|BaseLayer
+    7401416: Box014|Box016|Take 001|BaseLayer
+    7401418: Box014|Box017|Take 001|BaseLayer
+    7401420: Box014|Box018|Take 001|BaseLayer
+    7401422: Box014|Box019|Take 001|BaseLayer
+    7401424: Box014|Cylinder001|Take 001|BaseLayer
+    7401426: Box014|Cylinder002|Take 001|BaseLayer
+    7401428: Box014|Object001|Take 001|BaseLayer
+    7401430: Box014|Object002|Take 001|BaseLayer
+    7401432: Box014|Object003|Take 001|BaseLayer
+    7401434: Box014|Object004|Take 001|BaseLayer
+    7401436: Box014|Object005|Take 001|BaseLayer
+    7401438: Box014|Object006|Take 001|BaseLayer
+    7401440: Box014|Object007|Take 001|BaseLayer
+    7401442: Box014|Object008|Take 001|BaseLayer
+    7401444: Box014|Object009|Take 001|BaseLayer
+    7401446: Box014|Object010|Take 001|BaseLayer
+    7401448: Box014|Object011|Take 001|BaseLayer
+    7401450: Box014|Object032|Take 001|BaseLayer
+    7401452: Box014|Object035|Take 001|BaseLayer
+    7401454: Box014|Object036|Take 001|BaseLayer
+    7401456: Box014|Object037|Take 001|BaseLayer
+    7401458: Box014|StraightStair001|Take 001|BaseLayer
+    7401460: Box014|StraightStair005|Take 001|BaseLayer
+    7401462: Box014|StraightStair006|Take 001|BaseLayer
+    7401464: Box014|StraightStair007|Take 001|BaseLayer
+    7401466: Box014|StraightStair015|Take 001|BaseLayer
+    7401468: Box014|StraightStair019|Take 001|BaseLayer
+    7401470: Box014|StraightStair021|Take 001|BaseLayer
+    7401472: Box014|StraightStair025|Take 001|BaseLayer
+    7401474: Box014|StraightStair028|Take 001|BaseLayer
+    7401476: Box014|StraightStair032|Take 001|BaseLayer
+    7401478: Box014|StraightStair034|Take 001|BaseLayer
+    7401480: Box014|Tube001|Take 001|BaseLayer
+    7401482: Object032|Box006|Take 001|BaseLayer
+    7401484: Object032|Box013|Take 001|BaseLayer
+    7401486: Object032|Box014|Take 001|BaseLayer
+    7401488: Object032|Box015|Take 001|BaseLayer
+    7401490: Object032|Box016|Take 001|BaseLayer
+    7401492: Object032|Box017|Take 001|BaseLayer
+    7401494: Object032|Box018|Take 001|BaseLayer
+    7401496: Object032|Box019|Take 001|BaseLayer
+    7401498: Object032|Cylinder001|Take 001|BaseLayer
+    7401500: Object032|Cylinder002|Take 001|BaseLayer
+    7401502: Object032|Object001|Take 001|BaseLayer
+    7401504: Object032|Object002|Take 001|BaseLayer
+    7401506: Object032|Object003|Take 001|BaseLayer
+    7401508: Object032|Object004|Take 001|BaseLayer
+    7401510: Object032|Object005|Take 001|BaseLayer
+    7401512: Object032|Object006|Take 001|BaseLayer
+    7401514: Object032|Object007|Take 001|BaseLayer
+    7401516: Object032|Object008|Take 001|BaseLayer
+    7401518: Object032|Object009|Take 001|BaseLayer
+    7401520: Object032|Object010|Take 001|BaseLayer
+    7401522: Object032|Object011|Take 001|BaseLayer
+    7401524: Object032|Object032|Take 001|BaseLayer
+    7401526: Object032|Object035|Take 001|BaseLayer
+    7401528: Object032|Object036|Take 001|BaseLayer
+    7401530: Object032|Object037|Take 001|BaseLayer
+    7401532: Object032|StraightStair001|Take 001|BaseLayer
+    7401534: Object032|StraightStair005|Take 001|BaseLayer
+    7401536: Object032|StraightStair006|Take 001|BaseLayer
+    7401538: Object032|StraightStair007|Take 001|BaseLayer
+    7401540: Object032|StraightStair015|Take 001|BaseLayer
+    7401542: Object032|StraightStair019|Take 001|BaseLayer
+    7401544: Object032|StraightStair021|Take 001|BaseLayer
+    7401546: Object032|StraightStair025|Take 001|BaseLayer
+    7401548: Object032|StraightStair028|Take 001|BaseLayer
+    7401550: Object032|StraightStair032|Take 001|BaseLayer
+    7401552: Object032|StraightStair034|Take 001|BaseLayer
+    7401554: Object032|Tube001|Take 001|BaseLayer
+    7401556: Cylinder001|Box006|Take 001|BaseLayer
+    7401558: Cylinder001|Box013|Take 001|BaseLayer
+    7401560: Cylinder001|Box014|Take 001|BaseLayer
+    7401562: Cylinder001|Box015|Take 001|BaseLayer
+    7401564: Cylinder001|Box016|Take 001|BaseLayer
+    7401566: Cylinder001|Box017|Take 001|BaseLayer
+    7401568: Cylinder001|Box018|Take 001|BaseLayer
+    7401570: Cylinder001|Box019|Take 001|BaseLayer
+    7401572: Cylinder001|Cylinder001|Take 001|BaseLayer
+    7401574: Cylinder001|Cylinder002|Take 001|BaseLayer
+    7401576: Cylinder001|Object001|Take 001|BaseLayer
+    7401578: Cylinder001|Object002|Take 001|BaseLayer
+    7401580: Cylinder001|Object003|Take 001|BaseLayer
+    7401582: Cylinder001|Object004|Take 001|BaseLayer
+    7401584: Cylinder001|Object005|Take 001|BaseLayer
+    7401586: Cylinder001|Object006|Take 001|BaseLayer
+    7401588: Cylinder001|Object007|Take 001|BaseLayer
+    7401590: Cylinder001|Object008|Take 001|BaseLayer
+    7401592: Cylinder001|Object009|Take 001|BaseLayer
+    7401594: Cylinder001|Object010|Take 001|BaseLayer
+    7401596: Cylinder001|Object011|Take 001|BaseLayer
+    7401598: Cylinder001|Object032|Take 001|BaseLayer
+    7401600: Cylinder001|Object035|Take 001|BaseLayer
+    7401602: Cylinder001|Object036|Take 001|BaseLayer
+    7401604: Cylinder001|Object037|Take 001|BaseLayer
+    7401606: Cylinder001|StraightStair001|Take 001|BaseLayer
+    7401608: Cylinder001|StraightStair005|Take 001|BaseLayer
+    7401610: Cylinder001|StraightStair006|Take 001|BaseLayer
+    7401612: Cylinder001|StraightStair007|Take 001|BaseLayer
+    7401614: Cylinder001|StraightStair015|Take 001|BaseLayer
+    7401616: Cylinder001|StraightStair019|Take 001|BaseLayer
+    7401618: Cylinder001|StraightStair021|Take 001|BaseLayer
+    7401620: Cylinder001|StraightStair025|Take 001|BaseLayer
+    7401622: Cylinder001|StraightStair028|Take 001|BaseLayer
+    7401624: Cylinder001|StraightStair032|Take 001|BaseLayer
+    7401626: Cylinder001|StraightStair034|Take 001|BaseLayer
+    7401628: Cylinder001|Tube001|Take 001|BaseLayer
+    7401630: Box013|Box006|Take 001|BaseLayer
+    7401632: Box013|Box013|Take 001|BaseLayer
+    7401634: Box013|Box014|Take 001|BaseLayer
+    7401636: Box013|Box015|Take 001|BaseLayer
+    7401638: Box013|Box016|Take 001|BaseLayer
+    7401640: Box013|Box017|Take 001|BaseLayer
+    7401642: Box013|Box018|Take 001|BaseLayer
+    7401644: Box013|Box019|Take 001|BaseLayer
+    7401646: Box013|Cylinder001|Take 001|BaseLayer
+    7401648: Box013|Cylinder002|Take 001|BaseLayer
+    7401650: Box013|Object001|Take 001|BaseLayer
+    7401652: Box013|Object002|Take 001|BaseLayer
+    7401654: Box013|Object003|Take 001|BaseLayer
+    7401656: Box013|Object004|Take 001|BaseLayer
+    7401658: Box013|Object005|Take 001|BaseLayer
+    7401660: Box013|Object006|Take 001|BaseLayer
+    7401662: Box013|Object007|Take 001|BaseLayer
+    7401664: Box013|Object008|Take 001|BaseLayer
+    7401666: Box013|Object009|Take 001|BaseLayer
+    7401668: Box013|Object010|Take 001|BaseLayer
+    7401670: Box013|Object011|Take 001|BaseLayer
+    7401672: Box013|Object032|Take 001|BaseLayer
+    7401674: Box013|Object035|Take 001|BaseLayer
+    7401676: Box013|Object036|Take 001|BaseLayer
+    7401678: Box013|Object037|Take 001|BaseLayer
+    7401680: Box013|StraightStair001|Take 001|BaseLayer
+    7401682: Box013|StraightStair005|Take 001|BaseLayer
+    7401684: Box013|StraightStair006|Take 001|BaseLayer
+    7401686: Box013|StraightStair007|Take 001|BaseLayer
+    7401688: Box013|StraightStair015|Take 001|BaseLayer
+    7401690: Box013|StraightStair019|Take 001|BaseLayer
+    7401692: Box013|StraightStair021|Take 001|BaseLayer
+    7401694: Box013|StraightStair025|Take 001|BaseLayer
+    7401696: Box013|StraightStair028|Take 001|BaseLayer
+    7401698: Box013|StraightStair032|Take 001|BaseLayer
+    7401700: Box013|StraightStair034|Take 001|BaseLayer
+    7401702: Box013|Tube001|Take 001|BaseLayer
+    7401704: StraightStair001|Box006|Take 001|BaseLayer
+    7401706: StraightStair001|Box013|Take 001|BaseLayer
+    7401708: StraightStair001|Box014|Take 001|BaseLayer
+    7401710: StraightStair001|Box015|Take 001|BaseLayer
+    7401712: StraightStair001|Box016|Take 001|BaseLayer
+    7401714: StraightStair001|Box017|Take 001|BaseLayer
+    7401716: StraightStair001|Box018|Take 001|BaseLayer
+    7401718: StraightStair001|Box019|Take 001|BaseLayer
+    7401720: StraightStair001|Cylinder001|Take 001|BaseLayer
+    7401722: StraightStair001|Cylinder002|Take 001|BaseLayer
+    7401724: StraightStair001|Object001|Take 001|BaseLayer
+    7401726: StraightStair001|Object002|Take 001|BaseLayer
+    7401728: StraightStair001|Object003|Take 001|BaseLayer
+    7401730: StraightStair001|Object004|Take 001|BaseLayer
+    7401732: StraightStair001|Object005|Take 001|BaseLayer
+    7401734: StraightStair001|Object006|Take 001|BaseLayer
+    7401736: StraightStair001|Object007|Take 001|BaseLayer
+    7401738: StraightStair001|Object008|Take 001|BaseLayer
+    7401740: StraightStair001|Object009|Take 001|BaseLayer
+    7401742: StraightStair001|Object010|Take 001|BaseLayer
+    7401744: StraightStair001|Object011|Take 001|BaseLayer
+    7401746: StraightStair001|Object032|Take 001|BaseLayer
+    7401748: StraightStair001|Object035|Take 001|BaseLayer
+    7401750: StraightStair001|Object036|Take 001|BaseLayer
+    7401752: StraightStair001|Object037|Take 001|BaseLayer
+    7401754: StraightStair001|StraightStair001|Take 001|BaseLayer
+    7401756: StraightStair001|StraightStair005|Take 001|BaseLayer
+    7401758: StraightStair001|StraightStair006|Take 001|BaseLayer
+    7401760: StraightStair001|StraightStair007|Take 001|BaseLayer
+    7401762: StraightStair001|StraightStair015|Take 001|BaseLayer
+    7401764: StraightStair001|StraightStair019|Take 001|BaseLayer
+    7401766: StraightStair001|StraightStair021|Take 001|BaseLayer
+    7401768: StraightStair001|StraightStair025|Take 001|BaseLayer
+    7401770: StraightStair001|StraightStair028|Take 001|BaseLayer
+    7401772: StraightStair001|StraightStair032|Take 001|BaseLayer
+    7401774: StraightStair001|StraightStair034|Take 001|BaseLayer
+    7401776: StraightStair001|Tube001|Take 001|BaseLayer
+    7401778: Box006|Box006|Take 001|BaseLayer
+    7401780: Box006|Box013|Take 001|BaseLayer
+    7401782: Box006|Box014|Take 001|BaseLayer
+    7401784: Box006|Box015|Take 001|BaseLayer
+    7401786: Box006|Box016|Take 001|BaseLayer
+    7401788: Box006|Box017|Take 001|BaseLayer
+    7401790: Box006|Box018|Take 001|BaseLayer
+    7401792: Box006|Box019|Take 001|BaseLayer
+    7401794: Box006|Cylinder001|Take 001|BaseLayer
+    7401796: Box006|Cylinder002|Take 001|BaseLayer
+    7401798: Box006|Object001|Take 001|BaseLayer
+    7401800: Box006|Object002|Take 001|BaseLayer
+    7401802: Box006|Object003|Take 001|BaseLayer
+    7401804: Box006|Object004|Take 001|BaseLayer
+    7401806: Box006|Object005|Take 001|BaseLayer
+    7401808: Box006|Object006|Take 001|BaseLayer
+    7401810: Box006|Object007|Take 001|BaseLayer
+    7401812: Box006|Object008|Take 001|BaseLayer
+    7401814: Box006|Object009|Take 001|BaseLayer
+    7401816: Box006|Object010|Take 001|BaseLayer
+    7401818: Box006|Object011|Take 001|BaseLayer
+    7401820: Box006|Object032|Take 001|BaseLayer
+    7401822: Box006|Object035|Take 001|BaseLayer
+    7401824: Box006|Object036|Take 001|BaseLayer
+    7401826: Box006|Object037|Take 001|BaseLayer
+    7401828: Box006|StraightStair001|Take 001|BaseLayer
+    7401830: Box006|StraightStair005|Take 001|BaseLayer
+    7401832: Box006|StraightStair006|Take 001|BaseLayer
+    7401834: Box006|StraightStair007|Take 001|BaseLayer
+    7401836: Box006|StraightStair015|Take 001|BaseLayer
+    7401838: Box006|StraightStair019|Take 001|BaseLayer
+    7401840: Box006|StraightStair021|Take 001|BaseLayer
+    7401842: Box006|StraightStair025|Take 001|BaseLayer
+    7401844: Box006|StraightStair028|Take 001|BaseLayer
+    7401846: Box006|StraightStair032|Take 001|BaseLayer
+    7401848: Box006|StraightStair034|Take 001|BaseLayer
+    7401850: Box006|Tube001|Take 001|BaseLayer
+    7401852: Object011|Box006|Take 001|BaseLayer
+    7401854: Object011|Box013|Take 001|BaseLayer
+    7401856: Object011|Box014|Take 001|BaseLayer
+    7401858: Object011|Box015|Take 001|BaseLayer
+    7401860: Object011|Box016|Take 001|BaseLayer
+    7401862: Object011|Box017|Take 001|BaseLayer
+    7401864: Object011|Box018|Take 001|BaseLayer
+    7401866: Object011|Box019|Take 001|BaseLayer
+    7401868: Object011|Cylinder001|Take 001|BaseLayer
+    7401870: Object011|Cylinder002|Take 001|BaseLayer
+    7401872: Object011|Object001|Take 001|BaseLayer
+    7401874: Object011|Object002|Take 001|BaseLayer
+    7401876: Object011|Object003|Take 001|BaseLayer
+    7401878: Object011|Object004|Take 001|BaseLayer
+    7401880: Object011|Object005|Take 001|BaseLayer
+    7401882: Object011|Object006|Take 001|BaseLayer
+    7401884: Object011|Object007|Take 001|BaseLayer
+    7401886: Object011|Object008|Take 001|BaseLayer
+    7401888: Object011|Object009|Take 001|BaseLayer
+    7401890: Object011|Object010|Take 001|BaseLayer
+    7401892: Object011|Object011|Take 001|BaseLayer
+    7401894: Object011|Object032|Take 001|BaseLayer
+    7401896: Object011|Object035|Take 001|BaseLayer
+    7401898: Object011|Object036|Take 001|BaseLayer
+    7401900: Object011|Object037|Take 001|BaseLayer
+    7401902: Object011|StraightStair001|Take 001|BaseLayer
+    7401904: Object011|StraightStair005|Take 001|BaseLayer
+    7401906: Object011|StraightStair006|Take 001|BaseLayer
+    7401908: Object011|StraightStair007|Take 001|BaseLayer
+    7401910: Object011|StraightStair015|Take 001|BaseLayer
+    7401912: Object011|StraightStair019|Take 001|BaseLayer
+    7401914: Object011|StraightStair021|Take 001|BaseLayer
+    7401916: Object011|StraightStair025|Take 001|BaseLayer
+    7401918: Object011|StraightStair028|Take 001|BaseLayer
+    7401920: Object011|StraightStair032|Take 001|BaseLayer
+    7401922: Object011|StraightStair034|Take 001|BaseLayer
+    7401924: Object011|Tube001|Take 001|BaseLayer
+    7401926: Object010|Box006|Take 001|BaseLayer
+    7401928: Object010|Box013|Take 001|BaseLayer
+    7401930: Object010|Box014|Take 001|BaseLayer
+    7401932: Object010|Box015|Take 001|BaseLayer
+    7401934: Object010|Box016|Take 001|BaseLayer
+    7401936: Object010|Box017|Take 001|BaseLayer
+    7401938: Object010|Box018|Take 001|BaseLayer
+    7401940: Object010|Box019|Take 001|BaseLayer
+    7401942: Object010|Cylinder001|Take 001|BaseLayer
+    7401944: Object010|Cylinder002|Take 001|BaseLayer
+    7401946: Object010|Object001|Take 001|BaseLayer
+    7401948: Object010|Object002|Take 001|BaseLayer
+    7401950: Object010|Object003|Take 001|BaseLayer
+    7401952: Object010|Object004|Take 001|BaseLayer
+    7401954: Object010|Object005|Take 001|BaseLayer
+    7401956: Object010|Object006|Take 001|BaseLayer
+    7401958: Object010|Object007|Take 001|BaseLayer
+    7401960: Object010|Object008|Take 001|BaseLayer
+    7401962: Object010|Object009|Take 001|BaseLayer
+    7401964: Object010|Object010|Take 001|BaseLayer
+    7401966: Object010|Object011|Take 001|BaseLayer
+    7401968: Object010|Object032|Take 001|BaseLayer
+    7401970: Object010|Object035|Take 001|BaseLayer
+    7401972: Object010|Object036|Take 001|BaseLayer
+    7401974: Object010|Object037|Take 001|BaseLayer
+    7401976: Object010|StraightStair001|Take 001|BaseLayer
+    7401978: Object010|StraightStair005|Take 001|BaseLayer
+    7401980: Object010|StraightStair006|Take 001|BaseLayer
+    7401982: Object010|StraightStair007|Take 001|BaseLayer
+    7401984: Object010|StraightStair015|Take 001|BaseLayer
+    7401986: Object010|StraightStair019|Take 001|BaseLayer
+    7401988: Object010|StraightStair021|Take 001|BaseLayer
+    7401990: Object010|StraightStair025|Take 001|BaseLayer
+    7401992: Object010|StraightStair028|Take 001|BaseLayer
+    7401994: Object010|StraightStair032|Take 001|BaseLayer
+    7401996: Object010|StraightStair034|Take 001|BaseLayer
+    7401998: Object010|Tube001|Take 001|BaseLayer
+    7402000: Object009|Box006|Take 001|BaseLayer
+    7402002: Object009|Box013|Take 001|BaseLayer
+    7402004: Object009|Box014|Take 001|BaseLayer
+    7402006: Object009|Box015|Take 001|BaseLayer
+    7402008: Object009|Box016|Take 001|BaseLayer
+    7402010: Object009|Box017|Take 001|BaseLayer
+    7402012: Object009|Box018|Take 001|BaseLayer
+    7402014: Object009|Box019|Take 001|BaseLayer
+    7402016: Object009|Cylinder001|Take 001|BaseLayer
+    7402018: Object009|Cylinder002|Take 001|BaseLayer
+    7402020: Object009|Object001|Take 001|BaseLayer
+    7402022: Object009|Object002|Take 001|BaseLayer
+    7402024: Object009|Object003|Take 001|BaseLayer
+    7402026: Object009|Object004|Take 001|BaseLayer
+    7402028: Object009|Object005|Take 001|BaseLayer
+    7402030: Object009|Object006|Take 001|BaseLayer
+    7402032: Object009|Object007|Take 001|BaseLayer
+    7402034: Object009|Object008|Take 001|BaseLayer
+    7402036: Object009|Object009|Take 001|BaseLayer
+    7402038: Object009|Object010|Take 001|BaseLayer
+    7402040: Object009|Object011|Take 001|BaseLayer
+    7402042: Object009|Object032|Take 001|BaseLayer
+    7402044: Object009|Object035|Take 001|BaseLayer
+    7402046: Object009|Object036|Take 001|BaseLayer
+    7402048: Object009|Object037|Take 001|BaseLayer
+    7402050: Object009|StraightStair001|Take 001|BaseLayer
+    7402052: Object009|StraightStair005|Take 001|BaseLayer
+    7402054: Object009|StraightStair006|Take 001|BaseLayer
+    7402056: Object009|StraightStair007|Take 001|BaseLayer
+    7402058: Object009|StraightStair015|Take 001|BaseLayer
+    7402060: Object009|StraightStair019|Take 001|BaseLayer
+    7402062: Object009|StraightStair021|Take 001|BaseLayer
+    7402064: Object009|StraightStair025|Take 001|BaseLayer
+    7402066: Object009|StraightStair028|Take 001|BaseLayer
+    7402068: Object009|StraightStair032|Take 001|BaseLayer
+    7402070: Object009|StraightStair034|Take 001|BaseLayer
+    7402072: Object009|Tube001|Take 001|BaseLayer
+    7402074: Object008|Box006|Take 001|BaseLayer
+    7402076: Object008|Box013|Take 001|BaseLayer
+    7402078: Object008|Box014|Take 001|BaseLayer
+    7402080: Object008|Box015|Take 001|BaseLayer
+    7402082: Object008|Box016|Take 001|BaseLayer
+    7402084: Object008|Box017|Take 001|BaseLayer
+    7402086: Object008|Box018|Take 001|BaseLayer
+    7402088: Object008|Box019|Take 001|BaseLayer
+    7402090: Object008|Cylinder001|Take 001|BaseLayer
+    7402092: Object008|Cylinder002|Take 001|BaseLayer
+    7402094: Object008|Object001|Take 001|BaseLayer
+    7402096: Object008|Object002|Take 001|BaseLayer
+    7402098: Object008|Object003|Take 001|BaseLayer
+    7402100: Object008|Object004|Take 001|BaseLayer
+    7402102: Object008|Object005|Take 001|BaseLayer
+    7402104: Object008|Object006|Take 001|BaseLayer
+    7402106: Object008|Object007|Take 001|BaseLayer
+    7402108: Object008|Object008|Take 001|BaseLayer
+    7402110: Object008|Object009|Take 001|BaseLayer
+    7402112: Object008|Object010|Take 001|BaseLayer
+    7402114: Object008|Object011|Take 001|BaseLayer
+    7402116: Object008|Object032|Take 001|BaseLayer
+    7402118: Object008|Object035|Take 001|BaseLayer
+    7402120: Object008|Object036|Take 001|BaseLayer
+    7402122: Object008|Object037|Take 001|BaseLayer
+    7402124: Object008|StraightStair001|Take 001|BaseLayer
+    7402126: Object008|StraightStair005|Take 001|BaseLayer
+    7402128: Object008|StraightStair006|Take 001|BaseLayer
+    7402130: Object008|StraightStair007|Take 001|BaseLayer
+    7402132: Object008|StraightStair015|Take 001|BaseLayer
+    7402134: Object008|StraightStair019|Take 001|BaseLayer
+    7402136: Object008|StraightStair021|Take 001|BaseLayer
+    7402138: Object008|StraightStair025|Take 001|BaseLayer
+    7402140: Object008|StraightStair028|Take 001|BaseLayer
+    7402142: Object008|StraightStair032|Take 001|BaseLayer
+    7402144: Object008|StraightStair034|Take 001|BaseLayer
+    7402146: Object008|Tube001|Take 001|BaseLayer
+    7402148: Object007|Box006|Take 001|BaseLayer
+    7402150: Object007|Box013|Take 001|BaseLayer
+    7402152: Object007|Box014|Take 001|BaseLayer
+    7402154: Object007|Box015|Take 001|BaseLayer
+    7402156: Object007|Box016|Take 001|BaseLayer
+    7402158: Object007|Box017|Take 001|BaseLayer
+    7402160: Object007|Box018|Take 001|BaseLayer
+    7402162: Object007|Box019|Take 001|BaseLayer
+    7402164: Object007|Cylinder001|Take 001|BaseLayer
+    7402166: Object007|Cylinder002|Take 001|BaseLayer
+    7402168: Object007|Object001|Take 001|BaseLayer
+    7402170: Object007|Object002|Take 001|BaseLayer
+    7402172: Object007|Object003|Take 001|BaseLayer
+    7402174: Object007|Object004|Take 001|BaseLayer
+    7402176: Object007|Object005|Take 001|BaseLayer
+    7402178: Object007|Object006|Take 001|BaseLayer
+    7402180: Object007|Object007|Take 001|BaseLayer
+    7402182: Object007|Object008|Take 001|BaseLayer
+    7402184: Object007|Object009|Take 001|BaseLayer
+    7402186: Object007|Object010|Take 001|BaseLayer
+    7402188: Object007|Object011|Take 001|BaseLayer
+    7402190: Object007|Object032|Take 001|BaseLayer
+    7402192: Object007|Object035|Take 001|BaseLayer
+    7402194: Object007|Object036|Take 001|BaseLayer
+    7402196: Object007|Object037|Take 001|BaseLayer
+    7402198: Object007|StraightStair001|Take 001|BaseLayer
+    7402200: Object007|StraightStair005|Take 001|BaseLayer
+    7402202: Object007|StraightStair006|Take 001|BaseLayer
+    7402204: Object007|StraightStair007|Take 001|BaseLayer
+    7402206: Object007|StraightStair015|Take 001|BaseLayer
+    7402208: Object007|StraightStair019|Take 001|BaseLayer
+    7402210: Object007|StraightStair021|Take 001|BaseLayer
+    7402212: Object007|StraightStair025|Take 001|BaseLayer
+    7402214: Object007|StraightStair028|Take 001|BaseLayer
+    7402216: Object007|StraightStair032|Take 001|BaseLayer
+    7402218: Object007|StraightStair034|Take 001|BaseLayer
+    7402220: Object007|Tube001|Take 001|BaseLayer
+    7402222: Object006|Box006|Take 001|BaseLayer
+    7402224: Object006|Box013|Take 001|BaseLayer
+    7402226: Object006|Box014|Take 001|BaseLayer
+    7402228: Object006|Box015|Take 001|BaseLayer
+    7402230: Object006|Box016|Take 001|BaseLayer
+    7402232: Object006|Box017|Take 001|BaseLayer
+    7402234: Object006|Box018|Take 001|BaseLayer
+    7402236: Object006|Box019|Take 001|BaseLayer
+    7402238: Object006|Cylinder001|Take 001|BaseLayer
+    7402240: Object006|Cylinder002|Take 001|BaseLayer
+    7402242: Object006|Object001|Take 001|BaseLayer
+    7402244: Object006|Object002|Take 001|BaseLayer
+    7402246: Object006|Object003|Take 001|BaseLayer
+    7402248: Object006|Object004|Take 001|BaseLayer
+    7402250: Object006|Object005|Take 001|BaseLayer
+    7402252: Object006|Object006|Take 001|BaseLayer
+    7402254: Object006|Object007|Take 001|BaseLayer
+    7402256: Object006|Object008|Take 001|BaseLayer
+    7402258: Object006|Object009|Take 001|BaseLayer
+    7402260: Object006|Object010|Take 001|BaseLayer
+    7402262: Object006|Object011|Take 001|BaseLayer
+    7402264: Object006|Object032|Take 001|BaseLayer
+    7402266: Object006|Object035|Take 001|BaseLayer
+    7402268: Object006|Object036|Take 001|BaseLayer
+    7402270: Object006|Object037|Take 001|BaseLayer
+    7402272: Object006|StraightStair001|Take 001|BaseLayer
+    7402274: Object006|StraightStair005|Take 001|BaseLayer
+    7402276: Object006|StraightStair006|Take 001|BaseLayer
+    7402278: Object006|StraightStair007|Take 001|BaseLayer
+    7402280: Object006|StraightStair015|Take 001|BaseLayer
+    7402282: Object006|StraightStair019|Take 001|BaseLayer
+    7402284: Object006|StraightStair021|Take 001|BaseLayer
+    7402286: Object006|StraightStair025|Take 001|BaseLayer
+    7402288: Object006|StraightStair028|Take 001|BaseLayer
+    7402290: Object006|StraightStair032|Take 001|BaseLayer
+    7402292: Object006|StraightStair034|Take 001|BaseLayer
+    7402294: Object006|Tube001|Take 001|BaseLayer
+    7402296: Object005|Box006|Take 001|BaseLayer
+    7402298: Object005|Box013|Take 001|BaseLayer
+    7402300: Object005|Box014|Take 001|BaseLayer
+    7402302: Object005|Box015|Take 001|BaseLayer
+    7402304: Object005|Box016|Take 001|BaseLayer
+    7402306: Object005|Box017|Take 001|BaseLayer
+    7402308: Object005|Box018|Take 001|BaseLayer
+    7402310: Object005|Box019|Take 001|BaseLayer
+    7402312: Object005|Cylinder001|Take 001|BaseLayer
+    7402314: Object005|Cylinder002|Take 001|BaseLayer
+    7402316: Object005|Object001|Take 001|BaseLayer
+    7402318: Object005|Object002|Take 001|BaseLayer
+    7402320: Object005|Object003|Take 001|BaseLayer
+    7402322: Object005|Object004|Take 001|BaseLayer
+    7402324: Object005|Object005|Take 001|BaseLayer
+    7402326: Object005|Object006|Take 001|BaseLayer
+    7402328: Object005|Object007|Take 001|BaseLayer
+    7402330: Object005|Object008|Take 001|BaseLayer
+    7402332: Object005|Object009|Take 001|BaseLayer
+    7402334: Object005|Object010|Take 001|BaseLayer
+    7402336: Object005|Object011|Take 001|BaseLayer
+    7402338: Object005|Object032|Take 001|BaseLayer
+    7402340: Object005|Object035|Take 001|BaseLayer
+    7402342: Object005|Object036|Take 001|BaseLayer
+    7402344: Object005|Object037|Take 001|BaseLayer
+    7402346: Object005|StraightStair001|Take 001|BaseLayer
+    7402348: Object005|StraightStair005|Take 001|BaseLayer
+    7402350: Object005|StraightStair006|Take 001|BaseLayer
+    7402352: Object005|StraightStair007|Take 001|BaseLayer
+    7402354: Object005|StraightStair015|Take 001|BaseLayer
+    7402356: Object005|StraightStair019|Take 001|BaseLayer
+    7402358: Object005|StraightStair021|Take 001|BaseLayer
+    7402360: Object005|StraightStair025|Take 001|BaseLayer
+    7402362: Object005|StraightStair028|Take 001|BaseLayer
+    7402364: Object005|StraightStair032|Take 001|BaseLayer
+    7402366: Object005|StraightStair034|Take 001|BaseLayer
+    7402368: Object005|Tube001|Take 001|BaseLayer
+    7402370: Object004|Box006|Take 001|BaseLayer
+    7402372: Object004|Box013|Take 001|BaseLayer
+    7402374: Object004|Box014|Take 001|BaseLayer
+    7402376: Object004|Box015|Take 001|BaseLayer
+    7402378: Object004|Box016|Take 001|BaseLayer
+    7402380: Object004|Box017|Take 001|BaseLayer
+    7402382: Object004|Box018|Take 001|BaseLayer
+    7402384: Object004|Box019|Take 001|BaseLayer
+    7402386: Object004|Cylinder001|Take 001|BaseLayer
+    7402388: Object004|Cylinder002|Take 001|BaseLayer
+    7402390: Object004|Object001|Take 001|BaseLayer
+    7402392: Object004|Object002|Take 001|BaseLayer
+    7402394: Object004|Object003|Take 001|BaseLayer
+    7402396: Object004|Object004|Take 001|BaseLayer
+    7402398: Object004|Object005|Take 001|BaseLayer
+    7402400: Object004|Object006|Take 001|BaseLayer
+    7402402: Object004|Object007|Take 001|BaseLayer
+    7402404: Object004|Object008|Take 001|BaseLayer
+    7402406: Object004|Object009|Take 001|BaseLayer
+    7402408: Object004|Object010|Take 001|BaseLayer
+    7402410: Object004|Object011|Take 001|BaseLayer
+    7402412: Object004|Object032|Take 001|BaseLayer
+    7402414: Object004|Object035|Take 001|BaseLayer
+    7402416: Object004|Object036|Take 001|BaseLayer
+    7402418: Object004|Object037|Take 001|BaseLayer
+    7402420: Object004|StraightStair001|Take 001|BaseLayer
+    7402422: Object004|StraightStair005|Take 001|BaseLayer
+    7402424: Object004|StraightStair006|Take 001|BaseLayer
+    7402426: Object004|StraightStair007|Take 001|BaseLayer
+    7402428: Object004|StraightStair015|Take 001|BaseLayer
+    7402430: Object004|StraightStair019|Take 001|BaseLayer
+    7402432: Object004|StraightStair021|Take 001|BaseLayer
+    7402434: Object004|StraightStair025|Take 001|BaseLayer
+    7402436: Object004|StraightStair028|Take 001|BaseLayer
+    7402438: Object004|StraightStair032|Take 001|BaseLayer
+    7402440: Object004|StraightStair034|Take 001|BaseLayer
+    7402442: Object004|Tube001|Take 001|BaseLayer
+    7402444: Object003|Box006|Take 001|BaseLayer
+    7402446: Object003|Box013|Take 001|BaseLayer
+    7402448: Object003|Box014|Take 001|BaseLayer
+    7402450: Object003|Box015|Take 001|BaseLayer
+    7402452: Object003|Box016|Take 001|BaseLayer
+    7402454: Object003|Box017|Take 001|BaseLayer
+    7402456: Object003|Box018|Take 001|BaseLayer
+    7402458: Object003|Box019|Take 001|BaseLayer
+    7402460: Object003|Cylinder001|Take 001|BaseLayer
+    7402462: Object003|Cylinder002|Take 001|BaseLayer
+    7402464: Object003|Object001|Take 001|BaseLayer
+    7402466: Object003|Object002|Take 001|BaseLayer
+    7402468: Object003|Object003|Take 001|BaseLayer
+    7402470: Object003|Object004|Take 001|BaseLayer
+    7402472: Object003|Object005|Take 001|BaseLayer
+    7402474: Object003|Object006|Take 001|BaseLayer
+    7402476: Object003|Object007|Take 001|BaseLayer
+    7402478: Object003|Object008|Take 001|BaseLayer
+    7402480: Object003|Object009|Take 001|BaseLayer
+    7402482: Object003|Object010|Take 001|BaseLayer
+    7402484: Object003|Object011|Take 001|BaseLayer
+    7402486: Object003|Object032|Take 001|BaseLayer
+    7402488: Object003|Object035|Take 001|BaseLayer
+    7402490: Object003|Object036|Take 001|BaseLayer
+    7402492: Object003|Object037|Take 001|BaseLayer
+    7402494: Object003|StraightStair001|Take 001|BaseLayer
+    7402496: Object003|StraightStair005|Take 001|BaseLayer
+    7402498: Object003|StraightStair006|Take 001|BaseLayer
+    7402500: Object003|StraightStair007|Take 001|BaseLayer
+    7402502: Object003|StraightStair015|Take 001|BaseLayer
+    7402504: Object003|StraightStair019|Take 001|BaseLayer
+    7402506: Object003|StraightStair021|Take 001|BaseLayer
+    7402508: Object003|StraightStair025|Take 001|BaseLayer
+    7402510: Object003|StraightStair028|Take 001|BaseLayer
+    7402512: Object003|StraightStair032|Take 001|BaseLayer
+    7402514: Object003|StraightStair034|Take 001|BaseLayer
+    7402516: Object003|Tube001|Take 001|BaseLayer
+    7402518: Object002|Box006|Take 001|BaseLayer
+    7402520: Object002|Box013|Take 001|BaseLayer
+    7402522: Object002|Box014|Take 001|BaseLayer
+    7402524: Object002|Box015|Take 001|BaseLayer
+    7402526: Object002|Box016|Take 001|BaseLayer
+    7402528: Object002|Box017|Take 001|BaseLayer
+    7402530: Object002|Box018|Take 001|BaseLayer
+    7402532: Object002|Box019|Take 001|BaseLayer
+    7402534: Object002|Cylinder001|Take 001|BaseLayer
+    7402536: Object002|Cylinder002|Take 001|BaseLayer
+    7402538: Object002|Object001|Take 001|BaseLayer
+    7402540: Object002|Object002|Take 001|BaseLayer
+    7402542: Object002|Object003|Take 001|BaseLayer
+    7402544: Object002|Object004|Take 001|BaseLayer
+    7402546: Object002|Object005|Take 001|BaseLayer
+    7402548: Object002|Object006|Take 001|BaseLayer
+    7402550: Object002|Object007|Take 001|BaseLayer
+    7402552: Object002|Object008|Take 001|BaseLayer
+    7402554: Object002|Object009|Take 001|BaseLayer
+    7402556: Object002|Object010|Take 001|BaseLayer
+    7402558: Object002|Object011|Take 001|BaseLayer
+    7402560: Object002|Object032|Take 001|BaseLayer
+    7402562: Object002|Object035|Take 001|BaseLayer
+    7402564: Object002|Object036|Take 001|BaseLayer
+    7402566: Object002|Object037|Take 001|BaseLayer
+    7402568: Object002|StraightStair001|Take 001|BaseLayer
+    7402570: Object002|StraightStair005|Take 001|BaseLayer
+    7402572: Object002|StraightStair006|Take 001|BaseLayer
+    7402574: Object002|StraightStair007|Take 001|BaseLayer
+    7402576: Object002|StraightStair015|Take 001|BaseLayer
+    7402578: Object002|StraightStair019|Take 001|BaseLayer
+    7402580: Object002|StraightStair021|Take 001|BaseLayer
+    7402582: Object002|StraightStair025|Take 001|BaseLayer
+    7402584: Object002|StraightStair028|Take 001|BaseLayer
+    7402586: Object002|StraightStair032|Take 001|BaseLayer
+    7402588: Object002|StraightStair034|Take 001|BaseLayer
+    7402590: Object002|Tube001|Take 001|BaseLayer
+    7402592: Object001|Box006|Take 001|BaseLayer
+    7402594: Object001|Box013|Take 001|BaseLayer
+    7402596: Object001|Box014|Take 001|BaseLayer
+    7402598: Object001|Box015|Take 001|BaseLayer
+    7402600: Object001|Box016|Take 001|BaseLayer
+    7402602: Object001|Box017|Take 001|BaseLayer
+    7402604: Object001|Box018|Take 001|BaseLayer
+    7402606: Object001|Box019|Take 001|BaseLayer
+    7402608: Object001|Cylinder001|Take 001|BaseLayer
+    7402610: Object001|Cylinder002|Take 001|BaseLayer
+    7402612: Object001|Object001|Take 001|BaseLayer
+    7402614: Object001|Object002|Take 001|BaseLayer
+    7402616: Object001|Object003|Take 001|BaseLayer
+    7402618: Object001|Object004|Take 001|BaseLayer
+    7402620: Object001|Object005|Take 001|BaseLayer
+    7402622: Object001|Object006|Take 001|BaseLayer
+    7402624: Object001|Object007|Take 001|BaseLayer
+    7402626: Object001|Object008|Take 001|BaseLayer
+    7402628: Object001|Object009|Take 001|BaseLayer
+    7402630: Object001|Object010|Take 001|BaseLayer
+    7402632: Object001|Object011|Take 001|BaseLayer
+    7402634: Object001|Object032|Take 001|BaseLayer
+    7402636: Object001|Object035|Take 001|BaseLayer
+    7402638: Object001|Object036|Take 001|BaseLayer
+    7402640: Object001|Object037|Take 001|BaseLayer
+    7402642: Object001|StraightStair001|Take 001|BaseLayer
+    7402644: Object001|StraightStair005|Take 001|BaseLayer
+    7402646: Object001|StraightStair006|Take 001|BaseLayer
+    7402648: Object001|StraightStair007|Take 001|BaseLayer
+    7402650: Object001|StraightStair015|Take 001|BaseLayer
+    7402652: Object001|StraightStair019|Take 001|BaseLayer
+    7402654: Object001|StraightStair021|Take 001|BaseLayer
+    7402656: Object001|StraightStair025|Take 001|BaseLayer
+    7402658: Object001|StraightStair028|Take 001|BaseLayer
+    7402660: Object001|StraightStair032|Take 001|BaseLayer
+    7402662: Object001|StraightStair034|Take 001|BaseLayer
+    7402664: Object001|Tube001|Take 001|BaseLayer
+    7402666: Tube001|Box006|Take 001|BaseLayer
+    7402668: Tube001|Box013|Take 001|BaseLayer
+    7402670: Tube001|Box014|Take 001|BaseLayer
+    7402672: Tube001|Box015|Take 001|BaseLayer
+    7402674: Tube001|Box016|Take 001|BaseLayer
+    7402676: Tube001|Box017|Take 001|BaseLayer
+    7402678: Tube001|Box018|Take 001|BaseLayer
+    7402680: Tube001|Box019|Take 001|BaseLayer
+    7402682: Tube001|Cylinder001|Take 001|BaseLayer
+    7402684: Tube001|Cylinder002|Take 001|BaseLayer
+    7402686: Tube001|Object001|Take 001|BaseLayer
+    7402688: Tube001|Object002|Take 001|BaseLayer
+    7402690: Tube001|Object003|Take 001|BaseLayer
+    7402692: Tube001|Object004|Take 001|BaseLayer
+    7402694: Tube001|Object005|Take 001|BaseLayer
+    7402696: Tube001|Object006|Take 001|BaseLayer
+    7402698: Tube001|Object007|Take 001|BaseLayer
+    7402700: Tube001|Object008|Take 001|BaseLayer
+    7402702: Tube001|Object009|Take 001|BaseLayer
+    7402704: Tube001|Object010|Take 001|BaseLayer
+    7402706: Tube001|Object011|Take 001|BaseLayer
+    7402708: Tube001|Object032|Take 001|BaseLayer
+    7402710: Tube001|Object035|Take 001|BaseLayer
+    7402712: Tube001|Object036|Take 001|BaseLayer
+    7402714: Tube001|Object037|Take 001|BaseLayer
+    7402716: Tube001|StraightStair001|Take 001|BaseLayer
+    7402718: Tube001|StraightStair005|Take 001|BaseLayer
+    7402720: Tube001|StraightStair006|Take 001|BaseLayer
+    7402722: Tube001|StraightStair007|Take 001|BaseLayer
+    7402724: Tube001|StraightStair015|Take 001|BaseLayer
+    7402726: Tube001|StraightStair019|Take 001|BaseLayer
+    7402728: Tube001|StraightStair021|Take 001|BaseLayer
+    7402730: Tube001|StraightStair025|Take 001|BaseLayer
+    7402732: Tube001|StraightStair028|Take 001|BaseLayer
+    7402734: Tube001|StraightStair032|Take 001|BaseLayer
+    7402736: Tube001|StraightStair034|Take 001|BaseLayer
+    7402738: Tube001|Tube001|Take 001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
